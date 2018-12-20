@@ -1,8 +1,0 @@
-Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H5,2017,2017,2017,4,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15792,,342457,,,0
-H5,2017,2017,2017,4,0,2,Export,414,Kuwait,KWT,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,50,,1556,,,0
-H5,2017,2017,2017,4,0,2,Export,414,Kuwait,KWT,512,Oman,OMN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,12500,,48089,,,0
-H5,2017,2017,2017,4,0,2,Export,414,Kuwait,KWT,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,40,,890,,,0
-H5,2017,2017,2017,4,0,2,Export,414,Kuwait,KWT,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,816,,263408,,,0
-H5,2017,2017,2017,4,0,2,Export,414,Kuwait,KWT,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,63,,2205,,11594,,,0
-H5,2017,2017,2017,4,0,2,Export,414,Kuwait,KWT,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,181,,16918,,,0

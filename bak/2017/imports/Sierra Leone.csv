@@ -1,8 +1,0 @@
-Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H3,2017,2017,2017,4,0,1,Import,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,,,43667,,,6
-H3,2017,2017,2017,4,0,1,Import,694,Sierra Leone,SLE,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,6,,27007,,,2
-H3,2017,2017,2017,4,0,1,Import,694,Sierra Leone,SLE,156,China,CHN,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,,,309,,,6
-H3,2017,2017,2017,4,0,1,Import,694,Sierra Leone,SLE,251,France,FRA,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,72,,5869,,,2
-H3,2017,2017,2017,4,0,1,Import,694,Sierra Leone,SLE,288,Ghana,GHA,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,4127,,5192,,,2
-H3,2017,2017,2017,4,0,1,Import,694,Sierra Leone,SLE,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,12,,4245,,,2
-H3,2017,2017,2017,4,0,1,Import,694,Sierra Leone,SLE,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,117,,1043,,,2

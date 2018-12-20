@@ -1,9 +1,0 @@
-Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H5,2017,2017,2017,4,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,53719,,125609,,,2
-H5,2017,2017,2017,4,0,2,Export,558,Nicaragua,NIC,84,Belize,BLZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,834,,,2
-H5,2017,2017,2017,4,0,2,Export,558,Nicaragua,NIC,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,36460,,59974,,,2
-H5,2017,2017,2017,4,0,2,Export,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,120,,39266,,,2
-H5,2017,2017,2017,4,0,2,Export,558,Nicaragua,NIC,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,662,,,2
-H5,2017,2017,2017,4,0,2,Export,558,Nicaragua,NIC,320,Guatemala,GTM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,1522,,,2
-H5,2017,2017,2017,4,0,2,Export,558,Nicaragua,NIC,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16807,,11765,,,2
-H5,2017,2017,2017,4,0,2,Export,558,Nicaragua,NIC,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,323,,11583,,,2

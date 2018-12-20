@@ -1,7 +1,0 @@
-Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H5,2017,2017,2017,4,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1238,,57,,1887,,,0
-H5,2017,2017,2017,4,0,2,Export,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6,,0,,744,,,0
-H5,2017,2017,2017,4,0,2,Export,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,0,,900,,,0
-H5,2017,2017,2017,4,0,2,Export,51,Armenia,ARM,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,27,,0,,81,,,0
-H5,2017,2017,2017,4,0,2,Export,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1200,,56,,12,,,0
-H5,2017,2017,2017,4,0,2,Export,51,Armenia,ARM,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,0,,150,,,0

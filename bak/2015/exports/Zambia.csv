@@ -1,8 +1,0 @@
-Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H5,2017,2017,2017,4,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,434,,10292,,,2
-H5,2017,2017,2017,4,0,2,Export,894,Zambia,ZMB,180,Dem. Rep. of the Congo,COD,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,8,,8,,2149,,,0
-H5,2017,2017,2017,4,0,2,Export,894,Zambia,ZMB,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,5967,,,2
-H5,2017,2017,2017,4,0,2,Export,894,Zambia,ZMB,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,102,,,2
-H5,2017,2017,2017,4,0,2,Export,894,Zambia,ZMB,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,406,,1994,,,2
-H5,2017,2017,2017,4,0,2,Export,894,Zambia,ZMB,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,41,,,2
-H5,2017,2017,2017,4,0,2,Export,894,Zambia,ZMB,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,38,,,2

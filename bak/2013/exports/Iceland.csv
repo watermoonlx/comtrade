@@ -1,7 +1,0 @@
-Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H5,2017,2017,2017,4,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,390,,12738,,,6
-H5,2017,2017,2017,4,0,2,Export,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,126,,7997,,,2
-H5,2017,2017,2017,4,0,2,Export,352,Iceland,ISL,234,Faeroe Isds,FRO,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,2,,2,,130,,,0
-H5,2017,2017,2017,4,0,2,Export,352,Iceland,ISL,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17,,215,,,2
-H5,2017,2017,2017,4,0,2,Export,352,Iceland,ISL,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,726,,,6
-H5,2017,2017,2017,4,0,2,Export,352,Iceland,ISL,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,244,,3669,,,2

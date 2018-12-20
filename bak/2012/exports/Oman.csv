@@ -1,5 +1,0 @@
-Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H5,2017,2017,2017,4,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,18380,,18380,,282738,,,0
-H5,2017,2017,2017,4,0,2,Export,512,Oman,OMN,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,6610,,6610,,236936,,,0
-H5,2017,2017,2017,4,0,2,Export,512,Oman,OMN,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,25,,25,,2403,,,0
-H5,2017,2017,2017,4,0,2,Export,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,11745,,11745,,43399,,,0

@@ -1,7 +1,0 @@
-Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H5,2017,2017,2017,4,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,70877,,,4
-H5,2017,2017,2017,4,0,1,Import,60,Bermuda,BMU,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,92,,92,,1652,,,0
-H5,2017,2017,2017,4,0,1,Import,60,Bermuda,BMU,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,157,,,4
-H5,2017,2017,2017,4,0,1,Import,60,Bermuda,BMU,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,900,,,4
-H5,2017,2017,2017,4,0,1,Import,60,Bermuda,BMU,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,2,,2,,250,,,0
-H5,2017,2017,2017,4,0,1,Import,60,Bermuda,BMU,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,352,,67918,,,4
