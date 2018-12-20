@@ -3,7 +3,7 @@ import { appConfig } from '../app.config';
 import * as request from 'superagent';
 import { buildCsvPath } from './dirUtils';
 import * as fs from 'fs';
-import * as extendProxy from 'superagent-proxy';
+const extendProxy = require('superagent-proxy');
 
 extendProxy(request);
 
