@@ -1,17 +1,32 @@
 import * as fs from 'fs';
 import * as path from 'path';
-import * as sh from 'shelljs';
-import { getReporters } from './tradeArea';
+import { appConfig } from '../app.config';
 
-export function prepareDir(year: number) {
-    const yearDirPath = buildYearPath(year);
+let downloadDir = 'downloads';
 
-    if (fs.existsSync(yearDirPath)) {
-        sh.rm('-rf', yearDirPath);
+export function initDownloadDir() {
+
+    downloadDir = path.resolve(process.cwd(), appConfig.downloadPath);
+    if (!fs.existsSync(downloadDir)) {
+        fs.mkdirSync(downloadDir);
     }
-    fs.mkdirSync(yearDirPath);
-    fs.mkdirSync(path.resolve(yearDirPath, 'imports'));
-    fs.mkdirSync(path.resolve(yearDirPath, 'exports'));
+
+    for (let year = appConfig.startYear; year <= appConfig.endYear; year += appConfig.yearStep) {
+        const yearDirPath = buildYearPath(year);
+        if (!fs.existsSync(yearDirPath)) {
+            fs.mkdirSync(yearDirPath);
+        }
+
+        const importsDirPath = path.resolve(yearDirPath, 'imports')
+        if (!fs.existsSync(importsDirPath)) {
+            fs.mkdirSync(importsDirPath);
+        }
+
+        const exportsDirPath = path.resolve(yearDirPath, 'exports');
+        if (!fs.existsSync(exportsDirPath)) {
+            fs.mkdirSync(exportsDirPath);
+        }
+    }
 }
 
 export function buildCsvPath(year: number, flow: 'imports' | 'exports', areaName: string) {
@@ -21,6 +36,6 @@ export function buildCsvPath(year: number, flow: 'imports' | 'exports', areaName
 }
 
 function buildYearPath(year: number) {
-    const yearDirPath = path.resolve(process.cwd(), 'downloads', year.toString());
+    const yearDirPath = path.resolve(downloadDir, year.toString());
     return yearDirPath;
 }
