@@ -1,0 +1,54 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,33536528,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,100771,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,105081,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4115,,,,17639,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,74,,,,6235,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,412466,,,,819075,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,3088877,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7,,,,21037,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,39,,,,14726,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,30,,,,63318,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6,,,,267,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1365553,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,750213,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,967884,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,161,,,,1389,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,63540,,,,19696,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,2162,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,60626,,,,38325,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,3423,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,88471,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,715197,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3000,,,,747,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,152622,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,460,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5325,,,,945,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,2722098,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,462,Maldives,MDV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11,,,,8292,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,466,Mali,MLI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,103,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,15130,,,,11391,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,478,Mauritania,MRT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2500,,,,1140,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,193448,,,,199987,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1288894,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,496,Mongolia,MNG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,9,,,,462,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,370280,,,,189862,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2636,,,,9874,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,44,,,,53250,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,280,,,,407,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1343181,,,,1102535,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,17671,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,690,Seychelles,SYC,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,,,367,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,164963,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,2449903,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,120,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,9004,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,748,Swaziland,SWZ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,,,610,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,14,,,,28443,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,11356469,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1086049,,,,846862,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,55011,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,50037,,,,4372,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1568807,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,2307607,,,0
+H5,2017,2017,2017,4,0,1,Import,144,Sri Lanka,LKA,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1662672,,,,793888,,,0

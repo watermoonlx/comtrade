@@ -1,0 +1,9 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3968915,,,6
+H5,2017,2017,2017,4,0,2,Export,214,Dominican Rep.,DOM,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,120,,,6
+H5,2017,2017,2017,4,0,2,Export,214,Dominican Rep.,DOM,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,95,,,6
+H5,2017,2017,2017,4,0,2,Export,214,Dominican Rep.,DOM,192,Cuba,CUB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1200,,,6
+H5,2017,2017,2017,4,0,2,Export,214,Dominican Rep.,DOM,332,Haiti,HTI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,239,,,6
+H5,2017,2017,2017,4,0,2,Export,214,Dominican Rep.,DOM,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,499,,,6
+H5,2017,2017,2017,4,0,2,Export,214,Dominican Rep.,DOM,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,515,,,6
+H5,2017,2017,2017,4,0,2,Export,214,Dominican Rep.,DOM,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3966246,,,6

@@ -1,0 +1,25 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,58420,,2604193,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,45,,3520,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,115,,1009,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,14452,,443,,28926,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,46318,,1755049,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,528,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1480,,382,,3457,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,23,,8462,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,22947,,63,,25751,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,10563,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,9867,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,2177,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,844,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,37085,,80,,23522,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,5507,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,895,,9655,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,540,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,3249,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,45,,105,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4337,,30,,7978,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,300,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,4662,,,2
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,780,Trinidad and Tobago,TTO,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,2,,2,,1594,,,0
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9935,,696919,,,2

@@ -1,0 +1,22 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,2344,,127541,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,1,,197,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,2,,855,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits.,5,Number of items,,,121,,40,,81,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,156,China,CHN,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,130,,1837,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,251,France,FRA,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,209,,12774,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,653,,27236,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,104,,13849,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits.,5,Number of items,,,560,,17,,1273,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits.,8,Weight in kilograms,,,3,,3,,603,,,0
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,10,,14859,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,132,,205,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,11,,1845,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,3,,2376,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,290,,28886,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,3,,141,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,1,,56,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits.,5,Number of items,,,58,,5,,37,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits.,5,Number of items,,,13239,,612,,8922,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits.,5,Number of items,,,2718,,53,,7140,,,2
+H3,2017,2017,2017,4,0,1,Import,690,Seychelles,SYC,842,USA,USA,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,60,,4361,,,2

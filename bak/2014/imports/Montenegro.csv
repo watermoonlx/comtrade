@@ -1,0 +1,40 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3111,,755254,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,38,,,0
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,33,,2251,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,20,,1,,13,,,0
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,241,,16,,1465,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1827,,225846,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,5089,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,112,,99599,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,5529,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,8675,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,133,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,199,,97656,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,1968,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6,,3,,42,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,213,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21,,5332,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,80,,7725,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,179,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,58,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,234,,73458,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,466,Mali,MLI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,0,,21,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,505,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,74,,18047,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,27,,9714,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,4921,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,454,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,1515,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,4083,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,1626,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,16,,1,,103,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,78,,20462,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,1309,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,65,,3484,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,39952,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1244,,0,,7879,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,349,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,82,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,1982,,,2
+H5,2017,2017,2017,4,0,1,Import,499,Montenegro,MNE,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,235,,103479,,,2

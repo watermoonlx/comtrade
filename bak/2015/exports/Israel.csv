@@ -1,0 +1,111 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2764903000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,24,Angola,AGO,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,3,,,,1000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,31,Azerbaijan,AZE,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,11,,,,3000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,49000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1966,,1333000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,390000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,44,Bahamas,BHS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,6000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,15857000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,53000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,70,Bosnia Herzegovina,BIH,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,149000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,72,Botswana,BWA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,61000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,272000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,86000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,3,,,,1000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,108,Burundi,BDI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,178,,,,46000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,19,,,,5000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5437,,5965000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,6000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,148,Chad,TCD,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,19,,,,5000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,106000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1574954,,1383962000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,152000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,63000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,24000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,405000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1579000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1803,,2000000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,7000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,27000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,19,,,,5000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,231,Ethiopia,ETH,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,50000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,42000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1015,,451000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,17710000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,266,Gabon,GAB,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,42,,,,11000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,9073000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,288,Ghana,GHA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,9000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,296,Kiribati,KIR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,11000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,359,,141000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,316,Guam,GUM,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,100,,,,26000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,320,Guatemala,GTM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,52000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,324,Guinea,GIN,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,27,,,,7000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,328,Guyana,GUY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,66135,,54334000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6690,,3692000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,73,,,,19000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,251000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,186000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5615,,2126000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20954,,15746000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,45000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,400,Jordan,JOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,57000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,141000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,32885,,33665000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,161000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,430,Liberia,LBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,4000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,171000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,5000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,15,,,,4000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1891000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,62,,,,16000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,513000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,104282000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,498,Rep. of Moldova,MDA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,6000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,508,Mozambique,MOZ,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,3,,,,1000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,516,Namibia,NAM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,50000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,524,Nepal,NPL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,8000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10844,,9194000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,548,Vanuatu,VUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,19000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,83000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,558,Nicaragua,NIC,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,3,,,,1000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,566,Nigeria,NGA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,30000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,535000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,104,,,,27000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,598,Papua New Guinea,PNG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,53000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,600,Paraguay,PRY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,14000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,52000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,30760,,36531000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,944000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,49000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6153,,2433000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2017000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,646,Rwanda,RWA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,31000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,686,Senegal,SEN,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,15,,,,4000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17,,17000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,45024000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,38658,,43911000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,35000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,154000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,132000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,199000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,716,Zimbabwe,ZWE,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,27,,,,7000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,4303000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2682000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2001000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,6129000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,780,Trinidad and Tobago,TTO,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,7,,,,2000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11728,,7774000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,800,Uganda,UGA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,713,,197000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,199000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14607,,7461000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,834,United Rep. of Tanzania,TZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,94000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1080455,,934428000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,882,Samoa,WSM,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,7,,,,2000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,894,Zambia,ZMB,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,11,,,,3000,,,6
+H5,2017,2017,2017,4,0,2,Export,376,Israel,ISR,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,549000,,,6

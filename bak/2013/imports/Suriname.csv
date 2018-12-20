@@ -1,0 +1,9 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2017,2017,2017,4,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,1072,,99916,,,2
+H3,2017,2017,2017,4,0,1,Import,740,Suriname,SUR,156,China,CHN,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,35,,1699,,,2
+H3,2017,2017,2017,4,0,1,Import,740,Suriname,SUR,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,11,,4179,,,2
+H3,2017,2017,2017,4,0,1,Import,740,Suriname,SUR,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,12,,15695,,,2
+H3,2017,2017,2017,4,0,1,Import,740,Suriname,SUR,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,38,,2122,,,2
+H3,2017,2017,2017,4,0,1,Import,740,Suriname,SUR,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,144,,17388,,,2
+H3,2017,2017,2017,4,0,1,Import,740,Suriname,SUR,699,India,IND,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,10,,15900,,,2
+H3,2017,2017,2017,4,0,1,Import,740,Suriname,SUR,842,USA,USA,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,0,,820,,42931,,,2

@@ -1,0 +1,53 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,361216967,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25,,13558,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,126,,71219,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,24289,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1834,,352950,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,29,,39138,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9950,,2559263,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,730,,38167,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,434,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8641,,10009461,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,67,,3489,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,123,,5101,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,614,,204144,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,376,,116970,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,45575,,14485736,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,311,,3963,,,2
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,31134,,12958089,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17,,16829,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,140,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,959,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14,,11563,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,27524,,7500817,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,405,,,2
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9896,,7781482,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6255,,1585272,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,206,,,2
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,26,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,37,,23615,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3049,,1093088,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,512,Oman,OMN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1024,,221334,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,453,,168866,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,10,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1026,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,22724,,4603536,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1109,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,95,,1948,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,332,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,2271,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,3314,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,618681,,286551202,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,420,,526068,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1498,,388774,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6135,,325307,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,86,,626,,,2
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,38217,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,190,,80099,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,207,,84265,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,2210,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,4500,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18,,4758,,,2
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6956,,2710924,,,6
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,24555,,6595878,,,6

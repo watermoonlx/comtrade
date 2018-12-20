@@ -1,0 +1,156 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,16388981791,,,6
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,8,Albania,ALB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,16500,,,,28424,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,20,Andorra,AND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,266367,,,,695887,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,28,Antigua and Barbuda,ATG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,123,,,,167,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,31,Azerbaijan,AZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,30,,,,282,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,61736,,,,15317,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1847946,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,32536657,,,,31312954,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,48,Bahrain,BHR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1533,,,,11881,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,51,Armenia,ARM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,9,,,,19,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,52,Barbados,BRB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,9000,,,,1245,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,8118105,,,6
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,60,Bermuda,BMU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,56,,,,3227,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,64,Bhutan,BTN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,50000,,33,,34484,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,70,Bosnia Herzegovina,BIH,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1975,,,,3653,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,9689372,,,,2445836,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,90,Solomon Isds,SLB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,669,,,,7832,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,92,Br. Virgin Isds,VGB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,95500,,278,,247637,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2043287,,,,1405406,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,104,Myanmar,MMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,78770,,,,145331,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,108,Burundi,BDI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1661,,,,939,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,116,Cambodia,KHM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,329,,,,1033,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,61105,,,,54035,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,64091794,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,132,Cabo Verde,CPV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2500,,,,1900,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,136,Cayman Isds,CYM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2000,,,,1959,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,140,Central African Rep.,CAF,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,35010,,,,1831,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,44,,,,6931,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,148,Chad,TCD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,30481,,,,16624,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,815015,,,,89138,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,4516957274,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,166,Cocos Isds,CCK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,15042,,,,357773,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,773,,,,152420,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,174,Comoros,COM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,16500,,,,20663,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,202187,,,,3467379,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,142708,,,,560762,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,192,Cuba,CUB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1662,,,,8001,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2812,,,,11276,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,14090498,,,6
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,916651,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,212,Dominica,DMA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10000,,,,9900,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,322532,,,,112318,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,208536,,,,105014,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,231,Ethiopia,ETH,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8987,,,,7578,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,15,,,,1304,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,238,Falkland Isds (Malvinas),FLK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,690740,,,,37556,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2827073,,,,3788213,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,64997425,,,6
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,258,French Polynesia,PYF,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,180,,,,1170,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,266,Gabon,GAB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10867,,,,21618,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,28500,,,,112479,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,270,Gambia,GMB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,26500,,,,32740,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,200069595,,,6
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,328,Guyana,GUY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2500,,,,26116,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,332,Haiti,HTI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11000,,,,265834,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,334,Heard Island and McDonald Islands,HMD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,82500,,,,70949,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,336,Holy See (Vatican City State),VAT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,155,,,,711,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,340,Honduras,HND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2600,,,,2048,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,12134533,,,,17444768,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8165401,,,,22454435,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3838690,,,,156936,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,22669135,,,,25139042,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7276,,,,4440,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,842981,,,,444810,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1632917359,,,,46539847,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,6450841,,,6
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,384,Côte d'Ivoire,CIV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1000,,23,,24520,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,388,Jamaica,JAM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,30000,,,,1480,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,648520332,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,500,,,,135805,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,400,Jordan,JOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4000,,,,4067,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,152,,57,,58857,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,408,Dem. People's Rep. of Korea,PRK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1206333,,,,891994,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1672953201,,,6
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,417,Kyrgyzstan,KGZ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,80,,,,16399,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,426,Lesotho,LSO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11,,,,794,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1153,,,,990,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,223955,,,,36305,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,450,Madagascar,MDG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2500,,,,23999,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,454,Malawi,MWI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,729336,,,,139895,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,4230686708,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,462,Maldives,MDV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,42958,,,,1235288,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,466,Mali,MLI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,296884,,,,1909430,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,16452705,,,,37374862,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,478,Mauritania,MRT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,180562,,,,51545,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,22753,,,,440167,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1461732242,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,496,Mongolia,MNG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2743,,,,972,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,499,Montenegro,MNE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,236,,,,104,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,500,Montserrat,MSR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,15096,,,,9320352,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,153727305,,,,56215922,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,508,Mozambique,MOZ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6100,,,,5771,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,512,Oman,OMN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6000,,,,24298,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,516,Namibia,NAM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,371011,,,,74101406,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,9942043,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,531,Curaçao,CUW,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,29501,,29,,30364,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,533,Aruba,ABW,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2485,,,,8264,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,540,New Caledonia,NCL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,47103,,,,992781,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,35645,,,,99820,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,568,"Other Europe, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,99986,,,,54373,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,180405,,,,358393,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,583,FS Micronesia,FSM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,84,,,,5424,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,584,Marshall Isds,MHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,360,,,,21600,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,585,Palau,PLW,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2000,,,,82662,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,50580,,,,19585,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,18500,,,,11783,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,598,Papua New Guinea,PNG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,135,,,,771,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,51276,,,,31805,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,564615777,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,612,Pitcairn,PCN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7434,,,,168136,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,648534,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,247914,,,,521774,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,626,Timor-Leste,TLS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3300,,0,,666,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,253,,,,1076,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,79460,,,,255858,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1189,,,,17691,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,646,Rwanda,RWA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,27872,,,,71647,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,654,Saint Helena,SHN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,13500,,,,40756,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,659,Saint Kitts and Nevis,KNA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,77005,,,,881488,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,662,Saint Lucia,LCA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,176,,,,176,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,666,Saint Pierre and Miquelon,SPM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3500,,2,,2619,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,674,San Marino,SMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1000,,0,,393,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,686,Senegal,SEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,680710,,,,20128,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7393,,,,4621,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,694,Sierra Leone,SLE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,75,,,,4828,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,699,India,IND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2320571,,,,3248594,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,161516448,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1905823,,,,3348221,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,12897295,,,,903145575,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,171589,,,,199286,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,29420,,,,58018,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,716,Zimbabwe,ZWE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,800,,,,1546,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,746974,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,748,Swaziland,SWZ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7439,,,,19489,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,100725,,,,292610,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,4383451,,,6
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,760,Syria,SYR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,38,,,,20937,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,397898276,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,772,Tokelau,TKL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,64,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,256,,,,13700,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1589,,,,3979,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3657,,,,35437,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,795,Turkmenistan,TKM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,21730,,,,46592,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,796,Turks and Caicos Isds,TCA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,14300,,,,7211,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,798,Tuvalu,TUV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,382913,,56,,50075,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,800,Uganda,UGA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,40068,,,,113828,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2126,,,,17714,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3750,,,,854,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,82080,,,,22328,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,4181341,,,6
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,834,United Rep. of Tanzania,TZA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,717596,,,,84767,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1099186019,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1508330,,,,71176,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,887,Yemen,YEM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8637,,,,3945,,,4
+H4,2017,2017,2017,4,0,1,Import,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,24928,,,,7594,,,4

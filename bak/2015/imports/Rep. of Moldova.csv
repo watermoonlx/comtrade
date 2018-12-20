@@ -1,0 +1,45 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7898,,5941216,,,6
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,0,,151,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1414,,2,,1942,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,399,,30,,9079,,,0
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,1,,74,,,0
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2489,,1386285,,,6
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,4,,2536,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,714,,581,,253065,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,1,,322,,,0
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,188,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1619,,10,,6250,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,72,,56936,,,6
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,1,,174,,,0
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,15245,,23,,35515,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5,,0,,30,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,38,,1,,755,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,363186,,406,,116614,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,454994,,211,,158419,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11370,,38,,43590,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,0,,472,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,116,,11,,2115,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,109366,,570,,568425,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,22053,,149,,139830,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,16919,,19,,7414,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,747,,1153037,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,592,,0,,137,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,36761,,36,,808,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,0,,100,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,627466,,1452,,1519107,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,409660,,299,,187846,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,41,,14660,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,224,,90,,29349,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1930,,13,,10569,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,2,,2,,617,,,0
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1575,,404,,87184,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7,,1,,237,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,35,,0,,117,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11,,0,,87,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,11366,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,124955,,36,,29850,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,57,,7,,415,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7,,2,,673,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,30385,,76,,12799,,,4
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,9408,,57,,92077,,,4

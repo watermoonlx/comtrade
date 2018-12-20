@@ -1,0 +1,45 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,47121,,3272595,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,293,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,11211,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,267,,41215,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1138,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,148,Chad,TCD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,620,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,27449,,1380026,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21,,8677,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,82,,33482,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,1112,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,27,,2927,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,6117,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,1814,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,295,,79231,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,340,Honduras,HND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,65,,4231,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,876,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,537,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,92,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,163,,1457,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,19,,7839,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,604,,64066,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,293,,22901,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,309,,36144,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,537,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2282,,207993,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2002,,104910,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1102,,200915,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,42,,29869,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,334,,2112,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21,,2132,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18,,107,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,56,,4427,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,22,,767,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,17502,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,35,,1351,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,108,,63405,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5881,,596667,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,1092,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17,,4858,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25,,21876,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,55,,12820,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,483,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5308,,280864,,,2
+H5,2017,2017,2017,4,0,1,Import,558,Nicaragua,NIC,862,Venezuela,VEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,107,,11881,,,2

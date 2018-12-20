@@ -1,0 +1,68 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,429259,,55310159,,,6
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,15400,,69,,63578,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,121,,16677,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,657,,227172,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,552,,44569,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2439,,3304235,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,171,,11,,13085,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6028,,572066,,,2
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,39816,,240,,36311,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,178435,,15533941,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,57070,,2265,,248202,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,6776,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,509,,74742,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,627,,39712,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,8,,722,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,5,,22638,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,159,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,20,,49,,18701,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,147,,270,,36281,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1794,,901043,,,2
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,13,,10311,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17189,,5888735,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,771,,75591,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,60,,163,,33218,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,17,,3528,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,219,,123156,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5060,,207,,39832,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,491,,154370,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14635,,621013,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8894,,1831224,,,4
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,39097,,20265,,1111467,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,22,,13,,1499,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,0,,83,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7005,,1265695,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,1,,1761,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,34930,,1775668,,,2
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16878,,2385004,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1283622,,236,,486253,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1162,,626,,169188,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,157,,141,,14050,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,11,,15246,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1377,,116,,3531,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1296,,249873,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2912,,371,,127102,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7,,49,,6502,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,73,,91,,36069,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,18,,9,,8199,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,694,Sierra Leone,SLE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8,,6,,1091,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,699,India,IND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7989008,,3867,,3734519,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,563,,526155,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,224389,,4822,,187618,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5589,,4761,,101312,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,156,,34934,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,407,,20,,27046,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2201,,897907,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,740,Suriname,SUR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,114,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,622,,84887,,,2
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,243,,228909,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2908,,323959,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,772,Tokelau,TKL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,485,,353,,21468,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6,,9,,1511,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,52,,98,,8348,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,39,,109,,2709,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1104,,237590,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,85893,,11170652,,,2
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2659,,112835,,,0
+H5,2017,2017,2017,4,0,1,Import,170,Colombia,COL,862,Venezuela,VEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8016,,112,,7781,,,0

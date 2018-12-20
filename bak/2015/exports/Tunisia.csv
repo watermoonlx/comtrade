@@ -1,0 +1,25 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1660163,,70638857,,,2
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,12,Algeria,DZA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,12,,132,,21055,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,38000,,31973,,,2
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,231,Ethiopia,ETH,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,17,,586,,27047,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,524507,,29980186,,,2
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,852743,,15321,,2151677,,,2
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,40404,,3508,,571091,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,683154,,24057631,,,2
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,384,Côte d'Ivoire,CIV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1500,,96,,19573,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,4,,4404,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,95,,96,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1735534,,279308,,9160967,,,2
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,1,,1173,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,22975,,39368,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21905,,478515,,,2
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,4,,137,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6000,,1,,2052,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,705,,55995,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,110,,39,,2708,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,2,,21,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1731,,73567,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,20137,,1384,,271879,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,13,,11,,13254,,,0
+H4,2017,2017,2017,4,0,2,Export,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3277196,,66694,,3674475,,,2

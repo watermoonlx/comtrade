@@ -1,0 +1,4 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,4,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,520,,574,,497,,,0
+H4,2017,2017,2017,4,0,2,Export,800,Uganda,UGA,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,46,,100,,301,,,0
+H4,2017,2017,2017,4,0,2,Export,800,Uganda,UGA,728,South Sudan,SSD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,474,,474,,195,,,0

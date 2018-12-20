@@ -1,0 +1,72 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1411635893,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,16,American Samoa,ASM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1330,,155963,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,529,,8701,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,36320,,781203,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7955,,18465848,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,52,Barbados,BRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,83,,11473,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1105,,2270429,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,136,,6949,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,394,,3513689,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,440,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,797,,280540,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1110,,1110,,68692,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1964816,,138895372,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1200,,215270,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,128,,128,,6171,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,737,,52699,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,106,,22321,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,83,,83,,6613,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,201,,14012,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,459,,608229,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1952,,506812,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,106,,6437,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,282,,33745,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,43668,,97544175,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,52,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,43,,43,,5584,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,113270,,35071045,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1625,,507279,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,5,,5,,592,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,1223,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25,,1500,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,122,,72386,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1065,,516573,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14240,,526900,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1865918,,148660088,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,158,,5412,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1431581,,234683025,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,537312,,151160434,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5936,,4419789,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,49117,,6971610,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,346694,,175367544,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8778,,530687,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,516,Namibia,NAM,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,264,,264,,21323,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1546,,1446197,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,27,,11485,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,2764,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,8923,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,215214,,59517968,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4157,,111186,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,411,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,74,,14261,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,178,,1031,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,2,,2,,987,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4582,,342851,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2605169,,268842584,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6701,,563471,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,37937,,14893363,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,211,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20,,17621,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,621,,76131,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,748,Swaziland,SWZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,2014,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3074,,353883,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1803,,306897,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,283972,,25312703,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,925,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,316,,87682,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1578,,44444,,,2
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4636,,5121729,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,66508,,12554476,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,882,Samoa,WSM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,213,,865,,,2

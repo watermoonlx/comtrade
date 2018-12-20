@@ -1,0 +1,153 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7771375,,6683227695,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2670,,673031,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1504,,3065084,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,469,,185505,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,86547,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3837,,5329313,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5191,,3456304,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,45780,,35771877,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,48,Bahrain,BHR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1610,,31790,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,50,Bangladesh,BGD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18,,3147,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,51,Armenia,ARM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,3302,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,52,Barbados,BRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,315,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,70669,,36159967,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,3811,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,27,,5134,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,72,Botswana,BWA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,160,,1392,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,69724,,61358715,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,31,,42858,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,429,,37859,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18295,,21087794,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,136,Cayman Isds,CYM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,350,,4180,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,75628,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,148,Chad,TCD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,65,,17833,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1481,,722757,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,81721,,82548173,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1192,,601222,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,178,Congo,COG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,492,,92926,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3507,,78838,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,132,,5251,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2062,,393205,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,192,Cuba,CUB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,216,,188536,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,527,,59178,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,87081,,75578067,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,53,,10644,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16202,,6334175,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,5016,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,63583,,103667892,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,392413,,229239226,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,73,,30367,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,860,,357614,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5734,,637776,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,368,Iraq,IRQ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,76,,5086,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,23787,,38981991,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4072,,6681179,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,319148,,310863619,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1480,,80274,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,35588,,46861130,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2433,,8416106,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,400,Jordan,JOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,62,,20364,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,23,,3493,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,61717,,87917695,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,414,Kuwait,KWT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,267,,96800,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,422,Lebanon,LBN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2351,,59657,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2303,,477559,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,434,Libya,LBY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,803,,47417,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2551,,4970065,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5585,,1178880,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,70730,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,450,Madagascar,MDG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2079,,62974,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,22609,,94654479,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,466,Mali,MLI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,827,,85384,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6138,,101918967,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,478,Mauritania,MRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25,,12299,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1726,,65870,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,130468,,104085982,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,57419,,159052239,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,496,Mongolia,MNG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,43,,10067,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,498,Rep. of Moldova,MDA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,75,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,179749,,40908364,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,508,Mozambique,MOZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2530,,6222,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,512,Oman,OMN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,375,,57543,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,516,Namibia,NAM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,3140,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,524,Nepal,NPL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,3347,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,292687,,506457081,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,2167,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2672,,1174985,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,686,Senegal,SEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1183,,93211,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5129,,3010523,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,690,Seychelles,SYC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,32,,18145,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18782,,12582288,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,72498,,564138138,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,26542,,20381769,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2220,,4768137,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5256,,1191376,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,706,Somalia,SOM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1293,,188471,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5173,,10257460,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,716,Zimbabwe,ZWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,270,,1475,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,179976,,79874509,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,30252,,33346000,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,38207,,24821182,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14957,,20445996,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,768,Togo,TGO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,60,,2798,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7194,,6264765,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2838112,,178427438,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11291,,11805999,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,795,Turkmenistan,TKM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,3290,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,800,Uganda,UGA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,106,,13234,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,878,,119430,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,968,,17289,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2900,,1687163,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,198749,,86537241,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,834,United Rep. of Tanzania,TZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,40,,1223,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,178207,,339153897,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,242,,55881,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,595,,48349,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,860,Uzbekistan,UZB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,202,,40608,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,37,,6374,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,887,Yemen,YEM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,170,,4291,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4909,,6367832,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,242,Fiji,FJI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,19,,6696,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,19133,,13505045,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1223,,283237,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3142,,32315,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,266,Gabon,GAB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,301,,56344,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,31,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,275,State of Palestine,PSE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,181,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1499890,,2613491913,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,288,Ghana,GHA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,262,,643371,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9176,,620828,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,320,Guatemala,GTM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,168,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,324,Guinea,GIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,218,,34749,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12414,,15237509,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,104,Myanmar,MMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,250,,3448,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,70,,2609,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,540,New Caledonia,NCL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2366,,181484,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,548,Vanuatu,VUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1323,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1199,,1677335,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,562,Niger,NER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,68,,26004,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,566,Nigeria,NGA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1558,,604498,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8431,,29041816,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,351458,,159852146,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,45639,,81975294,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1130,,59135,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,114596,,163207138,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7912,,12517782,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,652,Saint Barthélemy,BLM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,26,,6898,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,650,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,67,,6872,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3659,,800038,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,500,,239214,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,150,,80417,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,600,Paraguay,PRY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,6030,,,2
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1149,,7,,4114,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,674,San Marino,SMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,206,,,4
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,820,,,4
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,417,Kyrgyzstan,KGZ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4424,,108,,16835,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,16577,,89,,59539,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,96,Brunei Darussalam,BRN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,0,,7,,,4
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,534,Saint Maarten,SXM,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,10,,10,,2139,,,0
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,108,Burundi,BDI,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,4,,4,,1807,,,0
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,577,"Other Africa, nes",,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,0,,0,,22,,,6
+H5,2017,2017,2017,4,0,2,Export,251,France,FRA,332,Haiti,HTI,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,10,,10,,18356,,,0

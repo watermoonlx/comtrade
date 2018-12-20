@@ -1,0 +1,21 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,10596336,,,4
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,20,,,,46,,,4
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,50,Bangladesh,BGD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,,,1841,,,4
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,6549967,,,0
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,0,,11023,,,0
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,890311,,,0
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,20921,,,4
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,71214,,,0
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,60,,60,,45,,,0
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,462,Maldives,MDV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,224,,22339,,,4
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,536,,536,,25005,,,0
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1389,,,0
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,56,,6654,,,4
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1280,,0,,57494,,,0
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6568,,0,,1664,,,0
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,29443,,29443,,1553980,,,0
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,748,Swaziland,SWZ,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,26,,26,,3365,,,0
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,406724,,,4
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2664,,0,,30625,,,4
+H5,2017,2017,2017,4,0,2,Export,144,Sri Lanka,LKA,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,941718,,,0

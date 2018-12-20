@@ -1,0 +1,65 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,162954,,51182882,,,6
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,24,Angola,AGO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,3,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,36,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2774,,32,,4628,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3557,,836188,,,6
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,96,,171555,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,156051,,257,,416097,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,23182,,40,,36252,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,754,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3932,,2598406,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,647,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,346,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7208,,230,,278672,,,6
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4076,,38268,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,231,Ethiopia,ETH,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,0,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,70050,,15015470,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,194,,40447,,,6
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1666,,303911,,,6
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,288,Ghana,GHA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,974,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,203,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5055,,1508628,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1422,,86829,,,6
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,8193,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8707,,969198,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1760,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,191,,92901,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,414,Kuwait,KWT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,491,,6,,1713,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1555,,1622194,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,308869,,1879,,772034,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1080,,146,,159591,,,0
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,454,Malawi,MWI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17,,3698,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,14818,,16,,44615,,,6
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18,,8,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,70,,102018,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,8144,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,508,Mozambique,MOZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,42,,30,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11314,,820209,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,577,"Other Africa, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1027,,12,,1787,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,615,,133265,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,6486,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,308,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,49477,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1381,,790994,,,6
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,0,,7,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,19529,,343,,33899,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5678,,13582420,,,6
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7195,,713991,,,6
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,30305,,37,,81701,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2805,,381,,643620,,,0
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1005,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,5934,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1831,,8,,5177,,,6
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11925,,3678642,,,6
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18421,,4273401,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18,,7450,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,810,,34945,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,30926,,116,,52217,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,800,Uganda,UGA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,9104,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,320,,915421,,,6
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,719,,68150,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,834,United Rep. of Tanzania,TZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,5988,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,296,,141440,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,655,,,2
+H5,2017,2017,2017,4,0,2,Export,233,Estonia,EST,894,Zambia,ZMB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,747,,,2

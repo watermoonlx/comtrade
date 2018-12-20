@@ -1,0 +1,124 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,113082870368,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,4,Afghanistan,AFG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1000,,,,3468,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,12,Algeria,DZA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3000,,,,34657,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,24,Angola,AGO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,9000,,,,31549,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,31,Azerbaijan,AZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7000,,,,44231,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4788,,3292519,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17400,,13101852,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,64910,,76143264,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,48,Bahrain,BHR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,18000,,,,51231,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,50,Bangladesh,BGD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,135000,,,,67963,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,51,Armenia,ARM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,256000,,,,146600,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,42671,,27744687,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,64,Bhutan,BTN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,37000,,,,4928,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,68,Bolivia (Plurinational State of),BOL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,30000,,,,38618,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,70,Bosnia Herzegovina,BIH,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1000,,,,1563,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,72,Botswana,BWA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3000,,3,,2685,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,206117,,212253347,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,96,Brunei Darussalam,BRN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1000,,,,2107,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3477,,3144187,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,104,Myanmar,MMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,323000,,,,12533,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2433,,1998075,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,116,Cambodia,KHM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1905000,,,,1110636,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2000,,,,1285,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,39583,,35448869,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,765000,,602,,690392,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1167,,778098,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,104624243,,99954079187,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7293000,,1543,,1656237,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2447000,,,,821746,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,93000,,,,75185,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,192,Cuba,CUB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1000,,,,1924,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4000,,,,26380,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20579,,19505240,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2081,,2021196,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,83000,,,,9275,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,97000,,,,925017,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2000,,,,3626,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1133000,,486,,490044,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,242,Fiji,FJI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,28000,,,,82375,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15548,,13837268,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,161484,,162892187,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,28000,,,,52140,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,363251,,352256695,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,288,Ghana,GHA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2000,,,,5370,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,109,,70220,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,320,Guatemala,GTM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8000,,,,18902,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,340,Honduras,HND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10000,,,,16069,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,47460,,52371190,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,483000,,,,190643,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,55679,,47586064,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6879,,4099256,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,368,Iraq,IRQ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10000,,,,30404,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1882,,1838375,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,30944,,30737585,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20796,,19058869,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1523423,,1218202681,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,768000,,,,2810774,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,400,Jordan,JOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,25000,,,,34616,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,144000,,,,42263,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1676736,,1766877543,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,414,Kuwait,KWT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,357000,,356,,325596,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,417,Kyrgyzstan,KGZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,457,,403393,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,418,Lao People's Dem. Rep.,LAO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,829000,,,,41620,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,422,Lebanon,LBN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,268,,82702,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11723000,,40214,,39442620,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,70568000,,11668,,13205403,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7031,,6314154,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1128837,,448242771,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3768000,,1573,,1515731,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,473,"LAIA, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,708000,,,,96376,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,37000,,,,123216,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,228120,,121620975,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3521131,,3067131115,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,496,Mongolia,MNG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11000,,,,28092,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,498,Rep. of Moldova,MDA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,614000,,,,224434,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3384000,,615,,692152,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,512,Oman,OMN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,34000,,,,64288,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,524,Nepal,NPL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,32000,,,,125705,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,527,"Oceania, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3000,,,,4798,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,405394,,370988213,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1155,,903792,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,566,Nigeria,NGA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1213000,,257,,227132,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,499,,435574,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1832,,982217,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1000,,,,5519,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,600,Paraguay,PRY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,13000,,,,71380,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,372000,,,,218300,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,934916,,263889006,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,67864,,60215843,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2173000,,,,30437395,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,26000,,,,96682,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9695,,11449968,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,199278,,119652125,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,643,,500527,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,686,Senegal,SEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,159,,9402,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,882000,,,,254093,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,246129,,162093787,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1416248,,1453516689,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5365,,5600225,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,901155,,787784267,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1341000,,,,266773,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,35253,,3563967,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,716,Zimbabwe,ZWE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2000,,,,2503,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6555,,6479392,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,748,Swaziland,SWZ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,15546000,,,,3503521,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10131,,10290367,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,53388,,59725831,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1456588,,599369964,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,780,Trinidad and Tobago,TTO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3000,,,,5166,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,45347,,39563099,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16630,,16829656,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,139977,,34212967,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,800,Uganda,UGA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3000,,,,8007,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3700,,3673478,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5000,,,,8727,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,974,,810641,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,104822,,97662616,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,834,United Rep. of Tanzania,TZA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,54000,,,,18220,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1444175,,1208439325,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3000,,,,9381,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,860,Uzbekistan,UZB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,25000,,,,475586,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,862,Venezuela,VEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,72000,,,,53967,,,4
+H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,894,Zambia,ZMB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5000,,,,3987,,,4

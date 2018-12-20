@@ -1,0 +1,73 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1176354,,249182348,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,85,,58122,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3447,,2942158,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,23209,,2984521,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,70,Bosnia Herzegovina,BIH,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,39,,3734,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,2114,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,44,,8159,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,2869,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,393,,1122239,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,4285,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,47885,,4823495,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14,,6012,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,136,,69146,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,1,,103,,,0
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9826,,4280320,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,563,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,231,Ethiopia,ETH,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,19,,19,,5463,,,0
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,72,,31109,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,234,Faeroe Isds,FRO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,90,,259,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,139,,52929,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15669,,9342228,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,258,French Polynesia,PYF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,953,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,552646,,94077467,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,629,,167104,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,320,Guatemala,GTM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,28,,44,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1733,,555738,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1985,,1125521,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,4140,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1187,,78655,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1494,,1239193,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1854,,2346549,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,74034,,2649835,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1096,,597196,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4635,,2,,5564,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5906,,5070329,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,422,Lebanon,LBN,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,1,,299,,,0
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,503,,118228,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,88,,33638,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,78,,35308,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,454,Malawi,MWI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,32,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4051,,4920651,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,768,,768,,82507,,,0
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,478,Mauritania,MRT,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,4,,4,,663,,,0
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,223,,74201,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17539,,17473876,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,34,,8358,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,98614,,35056044,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,12,,12,,3149,,,0
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2250,,2725011,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,581,United States Minor Outlying Islands,UMI,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,1,,199,,,0
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2493,,2914465,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,78923,,7798188,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,30,,10676,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,170,,5148,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,12776,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,621,,90656,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1939,,95956,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,590,,583234,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1897,,79126,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,76,,45002,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2920,,117521,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,174,,3608,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3629,,245289,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,58638,,8917850,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1755,,791426,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,19302,,2007518,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,1831,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,586,,22497,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,369,,99964,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,471,,293411,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,122562,,22197790,,,2
+H5,2017,2017,2017,4,0,1,Import,208,Denmark,DNK,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11314,,8658099,,,2

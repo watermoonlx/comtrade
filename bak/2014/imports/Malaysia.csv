@@ -1,0 +1,84 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,30835752465,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,8,Albania,ALB,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,170,,170,,2276,,,0
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25376,,2904602,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,505169,,136693509,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,50,Bangladesh,BGD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,17,,,,2556,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,52,Barbados,BRB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,464150,,,,40573,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,26743,,57279579,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3373912,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,96,Brunei Darussalam,BRN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,30,,,,4368,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6653,,5557385,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,104,Myanmar,MMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,480,,,,1167,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,116,Cambodia,KHM,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,2,,2,,1913,,,0
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,155773,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12035,,10270959,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1845,,,,17106,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,30033269,,3797134294,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,619,,,,1916,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1173,,1142740,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6300,,,,16478,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,36460,,,,90616,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,94453,,81506514,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,672,,480157,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,0,,0,,2594,,,0
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8356,,,,27890,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,242,Fiji,FJI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2160,,,,7300,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3397,,2248399,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,142007860,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1020932,,797487473,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,260132,,,,31275,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,320,Guatemala,GTM,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,191,,191,,12008,,,0
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,328,Guyana,GUY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,562,,127315,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,340,Honduras,HND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8016,,,,9532,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2758790,,602733221,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1906428,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,246270,,15362065,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,4891771,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,642413,,592150906,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,946350,,130354271,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10493508,,1861326877,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,400,Jordan,JOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6000,,,,2123,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2730902,,1411937073,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,414,Kuwait,KWT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,30000,,,,2095,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,21,,,,1482,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,25,,25,,2338,,,0
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,708,,756236,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,6874,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,462,Maldives,MDV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,243,,,,7187,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,38661,,35482916,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,200,,,,17539,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,41326,,24856219,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,31766233,,7496157524,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3894908,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1134967,,64073006,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,531,Curaçao,CUW,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6400,,,,9280,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,366880,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,148568,,17024376,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6000,,,,2338,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,598,Papua New Guinea,PNG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,281,,,,7896,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,600,Paraguay,PRY,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,5,,5,,6348,,,0
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,69938930,,905428539,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12194,,325144,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13811,,13150228,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10,,,,7237,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,283298,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,4761476,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,654,Saint Helena,SHN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,480,,,,1893,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,26,,1,,1865,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16186,,3795163,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13169157,,4990113482,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1887829,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3803975,,1319508252,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,102975,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,123208,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,304894,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15337,,3792943,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17118,,14343539,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11439579,,674659288,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,150920,,,,131610,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1550293,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,20000,,9,,9521,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2771650,,90824116,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12544696,,5307278601,,,4
+H5,2017,2017,2017,4,0,1,Import,458,Malaysia,MYS,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,168790,,201386819,,,4

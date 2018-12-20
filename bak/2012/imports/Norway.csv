@@ -1,0 +1,73 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,228887,,140367169,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,12,Algeria,DZA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,25,,13541,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,20,Andorra,AND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3440067,,1081,,3001320,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,143,,60798,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1096,,586550,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7117,,11815108,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,70,Bosnia Herzegovina,BIH,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,3,,381,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,63,,11647,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1128,,514962,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,15,,1,,173,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,3,,372,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,31169,,10169418,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,158,,92056,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,3218,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,7,,7,,1082,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,758,,162334,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25506,,2768606,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,267,,56787,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1511,,306173,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3763,,1508265,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21955,,5068731,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,292,Gibraltar,GIB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,9,,10888,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,1,,804,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,340,Honduras,HND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,4,,523,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,672,,321725,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,440,,36105,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,6302,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,180,,50097,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,498,,253719,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,175,,217358,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4874,,454655,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1725,,2151866,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15324,,35532175,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,297,,363718,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,974,,82858,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,9,,9,,5154,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12328,,9914755,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,148,,51844,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,50,,1,,214,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,312,,174202,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11015,,23207886,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,496,Mongolia,MNG,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,1,,288,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,499,Montenegro,MNE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,85,,1,,197,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,48,,24734,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9496,,1143571,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1070,,59,,14304,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1005,,14,,96913,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3013,,3527243,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,31656,,4552439,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,6272,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,62,,50672,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5,,1,,2023,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,121,,121,,1597,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,6,,889,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,251,,92740,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,673,,566403,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,65,,12524,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,417,,147988,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,445,,65832,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4007,,15,,13757,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4473,,541545,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5549,,2261175,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1586,,1563275,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,762,Tajikistan,TJK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,194,,2,,772,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7645,,3320952,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8,,35,,2843,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5,,1,,188,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,94,,6357,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,3,,177,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,14,,47,,43415,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10819,,2769113,,,0
+H5,2017,2017,2017,4,0,1,Import,579,Norway,NOR,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7522,,10558566,,,0

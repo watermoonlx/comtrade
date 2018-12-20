@@ -1,0 +1,116 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,77064631,,,6
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,4,Afghanistan,AFG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,618,,15,,14034,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,12,Algeria,DZA,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,8,,8,,1339,,,0
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,263,,,,3275,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,89,,76437,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,46216,,131,,118424,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,48,Bahrain,BHR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,122,,,,1064,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,50,Bangladesh,BGD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1859,,163611,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,51,Armenia,ARM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,,,1839,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,52,Barbados,BRB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,29,,1,,1083,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,58,,21808,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,64,Bhutan,BTN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,313,,21164,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,72,Botswana,BWA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,214,,20135,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,408,,373642,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,58,,,,2147,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,104,Myanmar,MMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,,,22,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,110,,,,14776,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,457,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,487,,287270,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5139,,263510,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,10718,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12871,,13729527,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,246,,211470,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,178,Congo,COG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,110,,,,3304,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,54,,54,,2108,,,0
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,33,,33,,7639,,,0
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,,,1351,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10,,,,333,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5586,,,,8806,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,204,Benin,BEN,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,58,,58,,900,,,0
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,801,,,,60732,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,147,,3097,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,231,Ethiopia,ETH,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,221,,22901,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,457039,,1044,,989205,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,242,Fiji,FJI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,26,,,,4560,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,443690,,870,,812973,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,815,,929081,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,266,Gabon,GAB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,27,,9,,8644,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,497,,,,15080,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7859,,1650178,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,288,Ghana,GHA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,921,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6,,,,1788,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,324,Guinea,GIN,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,2,,2,,241,,,0
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7977,,7592331,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,782,,694381,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,336,,217178,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,67,,17616,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1003095,,,,4796788,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8248,,10337718,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,196,,119975,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,384,Côte d'Ivoire,CIV,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,3,,3,,428,,,0
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2363,,499949,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,74,,65861,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,408,Dem. People's Rep. of Korea,PRK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,34278,,,,4248,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3461,,4204838,,,6
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,414,Kuwait,KWT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,731,,,,268093,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,422,Lebanon,LBN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,111,,,,375,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5,,,,1937,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,18119,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,200,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,450,Madagascar,MDG,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,1,,30,,,0
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,454,Malawi,MWI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,42,,,,2642,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10806,,1267429,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,462,Maldives,MDV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,4159,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,51114,,,,68049,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,85700,,376506,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,594,,337724,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1421,,1497871,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,496,Mongolia,MNG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,12,,,,1574,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,415,,,,91,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,508,Mozambique,MOZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,23,,8633,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,512,Oman,OMN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,246,,24934,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,524,Nepal,NPL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1963,,256321,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,134,,98695,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,540,New Caledonia,NCL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11,,,,224,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,72,,,,8458,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,558,Nicaragua,NIC,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,12,,,,21,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,566,Nigeria,NGA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,776,,548199,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,19,,,,2651,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,902,,1,,1020,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,598,Papua New Guinea,PNG,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,0,,0,,7,,,6
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,600,Paraguay,PRY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,762,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,200,,200,,8614,,,0
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,418,,363348,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,68009,,318,,305578,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,30,,26133,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,53,,3963,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,6056,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,344,,301227,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,646,Rwanda,RWA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,17,,,,2692,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,39,,34910,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5033,,3843235,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,315,,,,3675,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7124,,8917469,,,6
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,22,,,,2804,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,706,Somalia,SOM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,200,,,,239,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,4449,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,716,Zimbabwe,ZWE,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,30,,30,,193,,,0
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1283975,,,,98883,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,729,Sudan,SDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,91,,68195,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,44,,30098,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,384,,334311,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,325,,248704,,,6
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,893,,143936,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,42,,20877,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,800,Uganda,UGA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14,,8331,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,239,,,,8217,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,14,,,,8842,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,10372,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,954,,634889,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,834,United Rep. of Tanzania,TZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,143,,16356,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12665,,8318122,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,12,,,,377,,,4
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,862,Venezuela,VEN,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,35,,35,,397,,,0
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,894,Zambia,ZMB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,96,,81460,,,4

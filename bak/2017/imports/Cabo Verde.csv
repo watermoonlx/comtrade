@@ -1,0 +1,15 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,4,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,814,,129959,,,2
+H4,2017,2017,2017,4,0,1,Import,132,Cabo Verde,CPV,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,176,,,2
+H4,2017,2017,2017,4,0,1,Import,132,Cabo Verde,CPV,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,4186,,,2
+H4,2017,2017,2017,4,0,1,Import,132,Cabo Verde,CPV,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,1,,1,,,2
+H4,2017,2017,2017,4,0,1,Import,132,Cabo Verde,CPV,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25,,4737,,,2
+H4,2017,2017,2017,4,0,1,Import,132,Cabo Verde,CPV,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,501,,,2
+H4,2017,2017,2017,4,0,1,Import,132,Cabo Verde,CPV,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,141,,1460,,,2
+H4,2017,2017,2017,4,0,1,Import,132,Cabo Verde,CPV,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,11380,,,2
+H4,2017,2017,2017,4,0,1,Import,132,Cabo Verde,CPV,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1547,,,2
+H4,2017,2017,2017,4,0,1,Import,132,Cabo Verde,CPV,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,360,,63836,,,2
+H4,2017,2017,2017,4,0,1,Import,132,Cabo Verde,CPV,686,Senegal,SEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,23,,3058,,,2
+H4,2017,2017,2017,4,0,1,Import,132,Cabo Verde,CPV,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,153,,32507,,,2
+H4,2017,2017,2017,4,0,1,Import,132,Cabo Verde,CPV,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,29,,4891,,,2
+H4,2017,2017,2017,4,0,1,Import,132,Cabo Verde,CPV,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,34,,1675,,,2

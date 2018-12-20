@@ -1,0 +1,101 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25179401,,17384526993,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,8,Albania,ALB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,4391,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,4158,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2281,,941135,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,813996,,177284258,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,482668,,64630346,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,68,Bolivia (Plurinational State of),BOL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,580,,1,,582,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,70,Bosnia Herzegovina,BIH,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1157,,3,,1162,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,391,,138676,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,96,Brunei Darussalam,BRN,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,101,,101,,584,,,0
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,51930,,8364976,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17,,4659,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8657,,77,,18633,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4486,,8606399,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16152,,3313253,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2046,,121,,6905,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1807796,,1475636030,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8394,,32,,18124,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2952,,6258951,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,144,,122556,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,530609,,3294,,855808,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1054573,,169774857,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,49870,,9975023,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,1488,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,37,,278,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,231,Ethiopia,ETH,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,46,,38154,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2398,,146267,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1030,,1389389,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1367977,,444861001,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,50,,13386,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,288,Ghana,GHA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,169,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2434,,544622,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,340,Honduras,HND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,905,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,32088,,20765007,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,322551,,60252726,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,3171,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,290727,,175425264,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,375,,105788,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,368,Iraq,IRQ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,5886,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,172348,,176184060,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4627,,5621921,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,658112,,99160766,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,427420,,1042316356,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3293,,3,,8846,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,781523,,1704583646,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,414,Kuwait,KWT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,186,,239252,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,422,Lebanon,LBN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,3153,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,2454,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,352529,,18975,,1219841,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,144,,120771,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,257,,35396,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2383922,,2317437312,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3441643,,7297,,7946392,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,98,,26569,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,120393,,83397345,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1650709,,2619419996,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,498,Rep. of Moldova,MDA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,567,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,499,Montenegro,MNE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,8544,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,72379,,35485152,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,512,Oman,OMN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,1752,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,516,Namibia,NAM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,1824,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1853316,,735508088,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,18783,,74,,19323,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1594,,1166499,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,133,,99472,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,908,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,600,Paraguay,PRY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,34330,,9,,9919,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,452,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1046927,,1457944366,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3369244,,244747326,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3565,,1087209,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,9103,,27,,30224,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,102355,,10705357,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,397473,,1570,,788186,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,654,Saint Helena,SHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,4778,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,674,San Marino,SMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,48,,3131,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,109,,51835,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,369,,271517,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13528,,3202510,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,176221,,241634902,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,94465,,19077139,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,115377,,83807032,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18391,,3099862,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,570,,1548553,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,716,Zimbabwe,ZWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,6157,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,287306,,34096058,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15930,,10031767,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,119850,,93491879,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,762,Tajikistan,TJK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,2931,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,990254,,966352740,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2241,,626444,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,250857,,9307,,697112,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1710,,940551,,,6
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,375,,132087,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,51890,,68,,60889,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,35,,4080,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1654441,,608336552,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2690904,,2142150515,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,860,Uzbekistan,UZB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,737,,,2
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,862,Venezuela,VEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,50977,,,2

@@ -1,0 +1,161 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6583304,,6738293788,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1104,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,19,,8929,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2166,,1916194,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12526,,7490812,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,50,Bangladesh,BGD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,27,,12675,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,51,Armenia,ARM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,1034,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,79392,,33735750,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,68,Bolivia (Plurinational State of),BOL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,217,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,52,,14509,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,72,Botswana,BWA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,23,,7848,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,141,,90916,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,84,Belize,BLZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,9,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,96,Brunei Darussalam,BRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,421,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,752,,407638,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,104,Myanmar,MMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,1226,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,22,,12309,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,116,Cambodia,KHM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1041,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4725,,2808810,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1654,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21,,8920,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,514504,,198624326,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,2913,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,2509,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,69,,50557,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,343,,162419,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,192,Cuba,CUB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,2199,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,609,,204896,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11250,,8719501,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7140,,2693931,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,2184,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,66,,12778,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,293,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,231,Ethiopia,ETH,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,6591,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,224,,139490,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,234,Faeroe Isds,FRO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,460,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,242,Fiji,FJI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,1052,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5645,,4880109,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1101788,,489636791,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1635645,,2174732914,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,288,Ghana,GHA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,62,,14837,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,842,,362814,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,320,Guatemala,GTM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,31,,2247,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,340,Honduras,HND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,5769,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,308938,,336191184,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5073,,2254852,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,103,,42876,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9458,,804054,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,38,,3431,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,628409,,470853703,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3500,,7050929,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,79522,,9437419,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,34273,,21415879,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,41,,10734,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,400,Jordan,JOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,80,,36637,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,101,,71253,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,3,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,127111,,198671352,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,422,Lebanon,LBN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,178,,120196,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,479,,194364,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,434,Libya,LBY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,421,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1350,,1662325,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,677,,279677,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,490,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,266,Gabon,GAB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,762,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,262014,,1053088862,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,462,Maldives,MDV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,2,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,97,,163247,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,478,Mauritania,MRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,55,,13340,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1159,,844391,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,239806,,179538938,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,516,Namibia,NAM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,4401,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,524,Nepal,NPL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,38,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,531,Curaçao,CUW,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,228,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,534,Saint Maarten,SXM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,2799,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,535,Bonaire,BES,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,281,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,540,New Caledonia,NCL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3665,,102701,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,584,Marshall Isds,MHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1021,,5124981,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,31,,11299,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21,,2776,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,600,Paraguay,PRY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,265,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,5231,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,80130,,80985639,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18195,,7021821,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2042,,695865,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,624,Guinea-Bissau,GNB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,7904,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,498,Rep. of Moldova,MDA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18,,22847,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,50,,8109,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,508,Mozambique,MOZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,787,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2774,,1704094,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,784,,618912,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,662,Saint Lucia,LCA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,269,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1054,,189040,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,686,Senegal,SEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,5949,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4047,,1370962,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,690,Seychelles,SYC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,694,Sierra Leone,SLE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,4,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1897,,457969,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,377340,,475834523,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1283,,634037,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,195991,,373630131,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,913,,430140,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,871,,405251,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,716,Zimbabwe,ZWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,380,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15432,,5743648,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,729,Sudan,SDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,6,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,116,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10657,,8002534,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14535,,5010174,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,62346,,75609424,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,568,"Other Europe, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1704,,1235495,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2246,,956941,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,109907,,31661144,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2222,,957519,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,795,Turkmenistan,TKM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,6,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,800,Uganda,UGA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14,,3842,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,378,,81350,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,228,,31306,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,106,,51481,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,228424,,59190217,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,834,United Rep. of Tanzania,TZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,42,,41717,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,361091,,390481998,,,2
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,3816,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,860,Uzbekistan,UZB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,74,,79476,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,894,Zambia,ZMB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,48,,13712,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,7522,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,862,Venezuela,VEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,829,,20,,1336,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,56870,,231,,98515,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,581,United States Minor Outlying Islands,UMI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,16,,0,,31,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,780,Trinidad and Tobago,TTO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,387,,0,,755,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,748,Swaziland,SWZ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,157,,1,,406,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,678,Sao Tome and Principe,STP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,24,,0,,53,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,512,Oman,OMN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,21644,,152,,53747,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,499,Montenegro,MNE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3975,,12,,3358,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10210,,155,,33790,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,558,Nicaragua,NIC,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,48,,0,,97,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,566,Nigeria,NGA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3713,,71,,7688,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,496,Mongolia,MNG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,19,,0,,38,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,466,Mali,MLI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6,,0,,15,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6301,,63,,20996,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,450,Madagascar,MDG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,188,,0,,384,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,454,Malawi,MWI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,115,,0,,212,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,414,Kuwait,KWT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6299,,72,,20863,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,197,,9,,464,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,388,Jamaica,JAM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,226,,3,,749,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,368,Iraq,IRQ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,72,,2,,173,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,328,Guyana,GUY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,163,,0,,325,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,258,French Polynesia,PYF,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11,,1,,21,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,54,,0,,115,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,178,Congo,COG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,507,,2,,658,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,256,,0,,503,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,92,Br. Virgin Isds,VGB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,183,,0,,342,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,44,Bahamas,BHS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8,,0,,20,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,48,Bahrain,BHR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,29409,,53,,36089,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,28,Antigua and Barbuda,ATG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,698,,6,,2115,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,31,Azerbaijan,AZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5959,,55,,19935,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,8,Albania,ALB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3575,,67,,11830,,,6
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,12,Algeria,DZA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,45,,0,,89,,,6

@@ -1,0 +1,125 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1689160,,752962146,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,8,Albania,ALB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,92,,19992,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,12,Algeria,DZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,1377,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,20,Andorra,AND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,1018,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,24,Angola,AGO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,100,,36738,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,217,,132933,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,153,,71851,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1151,,247877,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,44,Bahamas,BHS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,300,,62131,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,48,Bahrain,BHR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,2841,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,50,Bangladesh,BGD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,34,,9294,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,51,Armenia,ARM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,5757,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8500,,1149418,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,68,Bolivia (Plurinational State of),BOL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,23,,15459,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,70,Bosnia Herzegovina,BIH,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,205,,29168,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10657,,969826,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,92,Br. Virgin Isds,VGB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,100,,2021,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7300,,3345883,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,104,Myanmar,MMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,1538,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3081,,1567562,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,5698,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,378,,130035,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,140,Central African Rep.,CAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,45,,9297,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,65,,13501,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,107,,53558,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,49900,,60306312,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,318,,257419,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,178,Congo,COG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1080,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,4134,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2236,,776047,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,613,,108508,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,72400,,8853375,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4500,,1364679,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,1219,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,22,,8617,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,2560,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,231,Ethiopia,ETH,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,5840,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1829,,738785,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6800,,1398152,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,26100,,6324947,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,258,French Polynesia,PYF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,342,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,266,Gabon,GAB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,2668,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,172,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,784100,,154856259,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,288,Ghana,GHA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,316,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2818,,468281,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,320,Guatemala,GTM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,45,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,340,Honduras,HND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,23,,5203,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14914,,21707696,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,91200,,20056992,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,63,,13191,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4406,,26690942,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,156,,60629,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,4940,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1172,,431175,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,230,,174742,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,70380,,17092598,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,384,Côte d'Ivoire,CIV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,4608,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1416,,1329054,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,3983,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,400,Jordan,JOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1422,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,3000,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2132,,6562644,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,414,Kuwait,KWT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,3597,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,418,Lao People's Dem. Rep.,LAO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,600,,119908,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,422,Lebanon,LBN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,4319,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2400,,1486954,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,434,Libya,LBY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,28,,5768,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1834,,1168426,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,212,,106434,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,688,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,454,Malawi,MWI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,302,,46407,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11114,,176832045,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,521,,172370,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,478,Mauritania,MRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,2241,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,1058,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1300,,585949,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2268,,25486136,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,498,Rep. of Moldova,MDA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,8621,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,499,Montenegro,MNE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,40,,8322,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,37,,26538,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,524,Nepal,NPL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,608,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14600,,6618746,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,218,,35891,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,130,,22298,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,418,,373234,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,131,,47526,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20,,4997,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,598,Papua New Guinea,PNG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,27,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14,,10535,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6633,,37302812,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,26500,,16584029,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1923,,537772,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,59,,20064,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,175800,,35939276,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3865,,1920048,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,469,,106713,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,686,Senegal,SEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,6185,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1253,,604921,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1688,,639003,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4373,,22856685,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,55860,,15970017,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,369,,101075,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9500,,5443748,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,706,Somalia,SOM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,2015,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1720,,399925,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7645,,1218153,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,729,Sudan,SDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,1288,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6600,,2851138,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,26802,,24281312,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,727,,3969983,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,142,,112661,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,10206,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4425,,665237,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6226,,931507,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,122,,118451,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,305,,67470,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,41800,,7833979,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,839,Special Categories,,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,42700,,42700,,3558109,,,0
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,54900,,18161348,,,2
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,854,Burkina Faso,BFA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,713,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18,,9661,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,860,Uzbekistan,UZB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14,,13824,,,6
+H5,2017,2017,2017,4,0,2,Export,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,42,,35770,,,6

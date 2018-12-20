@@ -1,0 +1,54 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,131340,,31134894,,,6
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,12666,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17,,18250,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,103,,34091,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,1328,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,68,,6071,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,51346,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,98143,,7128093,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,24646,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,671,,2872525,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,6016,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,13861,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,50,,31617,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,51,,105461,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,940,,8690227,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3997,,223461,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,5243,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,147,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17,,68436,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,211,,155673,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,457,,183722,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,55,,115462,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1792,,2459350,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,417,Kyrgyzstan,KGZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,279,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,26,,8877,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,33,,14270,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,227,,739332,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,466,Mali,MLI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,10764,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17,,23764,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1915,,1948231,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,190,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,142,,190520,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,416,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,26,,49821,,,6
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,62,,23943,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,57,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,13409,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18914,,1085461,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,10100,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,56262,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1379,,3125553,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1275,,89772,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20,,6828,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,65,,46908,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14,,11328,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,29,,51282,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,11018,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,29,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,76,,6453,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,1873,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,81,,101853,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,316,,1298408,,,2
+H5,2017,2017,2017,4,0,1,Import,398,Kazakhstan,KAZ,860,Uzbekistan,UZB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14,,174,,,2

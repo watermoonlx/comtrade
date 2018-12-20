@@ -1,0 +1,79 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,806962,,237686974,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,8,Albania,ALB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,760,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,961,,434010,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,348,,80558,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,51,Armenia,ARM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1353,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,35784,,5369055,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,152,,146694,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,84,Belize,BLZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,1758,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10,,0,,565,,,4
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,116,Cambodia,KHM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,391,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,447,,,4
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1200,,2227019,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7534,,9648355,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,358,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,152,,17087,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,63,,272732,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2445,,783174,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,131,,45202,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,5078,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3022,,1346959,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,261,,69729,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6714,,1422211,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,40,,85730,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,211943,,50004809,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18285,,863979,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,340,Honduras,HND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,162,,178488,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,28816,,30019565,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1878,,498241,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,383,,3986834,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,2617,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,41,,4294,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,4085,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,312298,,9811733,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15199,,10464495,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,400,Jordan,JOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,414,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,19,,3479,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2835,,3682282,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,414,Kuwait,KWT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,24,,3,,1482,,,0
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,134,,37998,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11797,,1711075,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,14621,,210,,62149,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1036,,5980735,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,639,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2067,,2853380,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7843,,13815160,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,498,Rep. of Moldova,MDA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,26,,3847,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,715,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,512,Oman,OMN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,20,,4,,824,,,0
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4881,,1643636,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,243,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,3110,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,101,,1545112,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1959,,17244498,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16363,,719191,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,744,,513233,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,542,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14082,,5625339,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,43,,264531,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,26,,17,,1553,,,0
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,554,,224151,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,374,,341459,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1483,,4119198,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1410,,104324,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,679,,518373,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,452,,30276,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6562,,514212,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,576,,122293,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4492,,4641694,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17818,,16635697,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7554,,34,,16928,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,5003,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,174974,,12863,,280074,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,122,,1692,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1106,,156109,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,31346,,6410952,,,6
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,834,United Rep. of Tanzania,TZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,1193,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15040,,20048633,,,2
+H5,2017,2017,2017,4,0,2,Export,100,Bulgaria,BGR,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,5,,5,,1143,,,0

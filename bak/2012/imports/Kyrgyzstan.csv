@@ -1,0 +1,25 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10120,,360500,,,6
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,25,,600,,228,,,2
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8393,,26507,,,6
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,525,,16,,6297,,,0
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,1,,552,,,0
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,5,,4192,,,0
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,24,,48,,70690,,,0
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,74,,,4
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,61,,42344,,,2
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,1,,222,,,0
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,358,,101,,15204,,,4
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,2,,5,,,4
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,342,,10,,7525,,,4
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,499,Montenegro,MNE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,0,,2,,,4
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,1,,2622,,,0
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,162,,88,,526,,,4
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,45,,10703,,,6
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,1,,306,,,0
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11277,,455,,163260,,,0
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,1,,109,,,0
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,623,,264,,1102,,,4
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,18,,7,,479,,,4
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14,,4079,,,2
+H5,2017,2017,2017,4,0,1,Import,417,Kyrgyzstan,KGZ,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,1,,3472,,,0

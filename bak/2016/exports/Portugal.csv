@@ -1,0 +1,87 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,713670,,323330179,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,8,Albania,ALB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,19,,18304,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,12,Algeria,DZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,5690,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,24,Angola,AGO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5834,,457295,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,2444,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,8208,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,0,,0,,44,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,48,Bahrain,BHR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,803,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5898,,645769,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,112,,60492,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3203,,1220191,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,16488,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,132,Cabo Verde,CPV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,524,,28578,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,2585,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,81,,19989,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,569,,214538,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,986,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,178,Congo,COG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,3708,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,1,,2,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,192,Cuba,CUB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,523,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25,,12132,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,605,,64805,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,145,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,400,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4622,,904184,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,221762,,1569981,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,158,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,187498,,20845380,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,75,,8160,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,81,,154774,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6824,,3265989,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25,,15140,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3710,,1514514,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,91,,15817,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6318,,2026931,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,57,,24178,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8557,,60,,28797,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,422,Lebanon,LBN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,2196,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,804,,773968,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21,,5084,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,327,,224981,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,338,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,478,Mauritania,MRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,903,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4296,,405033,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,35068,,243668976,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,79,,18535,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,508,Mozambique,MOZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,896,,244588,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4408,,890683,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,533,Aruba,ABW,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21,,3118,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,540,New Caledonia,NCL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,779,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,1223,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,4556,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,3018,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,600,Paraguay,PRY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18,,6645,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,252,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,417,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,305,,193428,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,624,Guinea-Bissau,GNB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,360,,5269,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,626,Timor-Leste,TLS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,137,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,142,,35565,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,53,,74054,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,678,Sao Tome and Principe,STP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,38,,13858,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18,,17002,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,686,Senegal,SEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,894,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,106,,1365,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,690,Seychelles,SYC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,439,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,78,,27838,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10610,,19217351,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1010,,424684,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,776,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17,,6676,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,39,,28393,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,45963,,16143215,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,748,Swaziland,SWZ,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,1,,71,,,0
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,122553,,971811,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,179,,28032,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,188,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,780,Trinidad and Tobago,TTO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,5645,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17222,,527940,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,23,,16624,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3221,,187787,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16936,,4603400,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,837,Bunkers,,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,32685,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,695,,1349134,,,6
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,854,Burkina Faso,BFA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,2233,,,2
+H5,2017,2017,2017,4,0,2,Export,620,Portugal,PRT,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,225,,,2

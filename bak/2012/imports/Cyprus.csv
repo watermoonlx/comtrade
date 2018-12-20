@@ -1,0 +1,34 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,33473,,2734374,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1956,,33413,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,15476,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,369,,29126,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,159,,36482,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,504,,61513,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,1,,49,,,0
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,151,,12958,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1582,,408050,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20529,,903652,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,107,,8921,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,203,,11,,55902,,,0
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,5325,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,281,,22398,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,11,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,30,,63745,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,197,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17,,8937,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2696,,522812,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,826,,50835,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,1413,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,699,India,IND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1033,,1031,,98379,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,109,,7770,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20,,1681,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,88,,13187,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,7823,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,231,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1000,,2893,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,1487,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,465,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1896,,331244,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,68,,27821,,,2
+H5,2017,2017,2017,4,0,1,Import,196,Cyprus,CYP,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,164,,,2

@@ -1,0 +1,64 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1190805,,398688018,,,6
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,8,Albania,ALB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,10128,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,160,,46159,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,378391,,2631,,3096686,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,700,,414852,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,39,,,6
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1959,,33,,57755,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,158,,5793,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,62,,43888,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,140,Central African Rep.,CAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,2838,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,140219,,51354439,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,2,,2,,3644,,,0
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3047,,1215606,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,591248,,3051,,1833495,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,245,,45071,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18,,6405,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,29305,,24379426,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,266,Gabon,GAB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,812,,7403,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,148037,,27761255,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1315,,782790,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,676,,180215,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,1,,105,,,0
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1625993,,2473,,2223454,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,141,,,6
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,501,,391751,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,22,,49784,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1473,,892324,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,29010,,21262831,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2990,,11207501,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,426,Lesotho,LSO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,387,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,226,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,37589,,33349754,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,466,Mali,MLI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,3989,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,300,,138219,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,200,,142984,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16187,,54849298,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,18635,,466,,127963,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,512,Oman,OMN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,464,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1717,,2317382,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,9156,,157,,8617,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,96,,7163,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12487,,10325854,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1797,,82898,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,6898,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,40,,605,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,4,,4,,17334,,,0
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,22,,23408,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11626,,17261534,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3539,,172,,7988,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5821,,860647,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,2114,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,250,,8,,958,,,6
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1513,,185577,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3844,,462343,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,410,,2472626,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,760,Syria,SYR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,2838,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14277,,10411092,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,121,,,6
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,26,,438,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,64,,1577,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,558939,,66734191,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,149270,,47215756,,,2
+H5,2017,2017,2017,4,0,1,Import,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6797,,4388963,,,2

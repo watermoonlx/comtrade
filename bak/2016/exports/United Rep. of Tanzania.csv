@@ -1,0 +1,7 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,63089,,,6
+H5,2017,2017,2017,4,0,2,Export,834,United Rep. of Tanzania,TZA,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,15,,15,,8174,,,0
+H5,2017,2017,2017,4,0,2,Export,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,45,,,6
+H5,2017,2017,2017,4,0,2,Export,834,United Rep. of Tanzania,TZA,699,India,IND,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1000,,1000,,90,,,0
+H5,2017,2017,2017,4,0,2,Export,834,United Rep. of Tanzania,TZA,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2247,,54600,,,2
+H5,2017,2017,2017,4,0,2,Export,834,United Rep. of Tanzania,TZA,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,79,,180,,,2

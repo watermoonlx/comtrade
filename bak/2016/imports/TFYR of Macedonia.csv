@@ -1,0 +1,41 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,29941,,32707377,,,6
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,807,,1248850,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,267,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,40,,27120,,,6
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,35,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2814,,1856862,,,6
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,10707,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,1508,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,587,,,0
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,401,,3474526,,,6
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3720,,3278918,,,6
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,212,,9405,,,0
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,12303,,,0
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,270,,1350110,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,14219,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2693,,4012243,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,315,,233620,,,6
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,290,,488424,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,577,,739431,,,6
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,19,,504,,,6
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,89,,,6
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,319,,186183,,,6
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,1370,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6258,,3457502,,,0
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,109,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,465,,122912,,,6
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14,,9764,,,6
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,132,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,36,,113855,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,77,,10910,,,0
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,5,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7889,,2849405,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1318,,,0
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,41,,4188,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,36,,12223,,,0
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1284,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,43,,101419,,,6
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,89,,1518,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,100,,48657,,,4
+H5,2017,2017,2017,4,0,1,Import,807,TFYR of Macedonia,MKD,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2344,,9024878,,,6

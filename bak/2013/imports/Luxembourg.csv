@@ -1,0 +1,48 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,173274,,33085635,,,4
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,20,Andorra,AND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10,,0,,140,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,42,,37029,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,62845,,3851405,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,264,,52382,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,68,,12748,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,22733,,2616160,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1214,,170457,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,64,,30831,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16020,,1293595,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,20,,20,,2617,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,29395,,4699175,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,41,,41,,7692,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,95,,55601,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,6,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,1,,51,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1074,,220354,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,6,,6,,5182,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1086,,140835,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,384,Côte d'Ivoire,CIV,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,4701,,4701,,761246,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4406,,2141280,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21,,7713,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,4,,4,,221,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,33,,33,,35116,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,113,,113,,13293,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,179,,179,,22543,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,211,,88273,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,2,,2,,707,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7590,,7533339,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,566,Nigeria,NGA,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,2,,2,,168,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,568,"Other Europe, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1518,,368444,,,4
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,7,,7,,7878,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,12,,12,,10903,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5072,,528009,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,517,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,699,India,IND,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,34,,34,,418,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,91,,45176,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,0,,2,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,7135,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,797,,93220,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,19,,9120,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,730,,730,,365622,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,15,,15,,5627,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,2,,2,,413,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8206,,6895530,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4341,,912273,,,0
+H5,2017,2017,2017,4,0,1,Import,442,Luxembourg,LUX,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,174,,35169,,,0

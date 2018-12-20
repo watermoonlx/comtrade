@@ -1,0 +1,52 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2663723,,73956212,,,6
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,120,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,410,,803728,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20992,,6581055,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,2044,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,14908,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,6286,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2866,,5352301,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1295,,678534,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,189002,,534556,,,6
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,339888,,6373631,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1256,,593612,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,920,,6726030,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,570005,,21884574,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1862310,,875,,2647332,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1303,,497413,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,319,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,58470,,661,,63821,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,114,,84009,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,591,,406258,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,69,,41619,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,52,,155299,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,144811,,1601440,,,6
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,39,,3103,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,534575,,283,,569031,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,11601,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,324,,631289,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,15416,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4603,,3977149,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,32,,16007,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,112,,62943,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,212689,,212,,308605,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1052650,,3613913,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,2017,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,306,,1,,5578,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,14,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,699,India,IND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,16484,,7,,15555,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,156549,,70,,186936,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,275904,,174837,,,6
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,382,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,26893,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,29,,16987,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2905,,2136223,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,43,,90226,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,271616,,151,,268105,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,137,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,52,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,118,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,50732,,5993691,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,434,,779217,,,2
+H5,2017,2017,2017,4,0,1,Import,440,Lithuania,LTU,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1298,,,2

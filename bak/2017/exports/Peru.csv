@@ -1,0 +1,23 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8665,,441447,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,77,,16832,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,2809,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,223,,1231,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,68,Bolivia (Plurinational State of),BOL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,280,,43949,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,1898,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1957,,77131,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1412,,35019,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,44,,1134,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,115,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1151,,21524,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,32,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,5364,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,89,,568,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,386,,19760,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,285,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,558,Nicaragua,NIC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,113,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,166,,4091,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,33,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,40,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2662,,208289,,,2
+H5,2017,2017,2017,4,0,2,Export,604,Peru,PER,862,Venezuela,VEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,167,,1221,,,2

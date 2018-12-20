@@ -1,0 +1,175 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,38127555354,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,4,Afghanistan,AFG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,484469,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,8,Albania,ALB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,16117,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,12,Algeria,DZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1133414,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,24,Angola,AGO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,11615,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,28,Antigua and Barbuda,ATG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,46538,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,58443380,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,67260655,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,11670214,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,44,Bahamas,BHS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,561842,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,48,Bahrain,BHR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1787318,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,52,Barbados,BRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,448855,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,44580652,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,513447,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,957340713,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,84,Belize,BLZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,125349,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,96,Brunei Darussalam,BRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,317409,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,21000082,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,104,Myanmar,MMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,726002,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,837279,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,98695,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1614201450,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,136,Cayman Isds,CYM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,224466,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,677669,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,148,Chad,TCD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,47579,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,20949177,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,5286379490,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,13848776,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,2600789,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,63887144,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,15959247,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,212,Dominica,DMA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,120306,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,6591508,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,8231206,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,3289487,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,51208758,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,193089527,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,258,French Polynesia,PYF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,154668,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,13860926,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,266,Gabon,GAB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,20280,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1863156,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,308,Grenada,GRD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,44908,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,320,Guatemala,GTM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,4922970,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,328,Guyana,GUY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,735261,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,332,Haiti,HTI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,438200,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,340,Honduras,HND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1385533,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,4476116091,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,28569622,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,16223786,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,368,Iraq,IRQ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1059761,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,47213233,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,205125449,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,64546441,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,2915127,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,388,Jamaica,JAM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1416369,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,615079070,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,291309,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,400,Jordan,JOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,351790,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,3121783396,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,414,Kuwait,KWT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,915216,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,12397131,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,2135936,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,2270758,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,3015146,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,4039459206,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,6321187491,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,3141421214,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,779253454,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,288,Ghana,GHA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,101816,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,657593,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,512,Oman,OMN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,183231,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,467182621,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,531,Curaçao,CUW,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,649936,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,533,Aruba,ABW,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,136059,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,534,Saint Maarten,SXM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,244500,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,8837647,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,558,Nicaragua,NIC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1520877,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,566,Nigeria,NGA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,458251,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,12638734,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,584,Marshall Isds,MHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,18136,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1580302,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,4466305,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,598,Papua New Guinea,PNG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,44686,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,600,Paraguay,PRY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,54326378,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,16850516,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1879160919,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,27445869,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,3028171,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,906985,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,14798895,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,46600747,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,659,Saint Kitts and Nevis,KNA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1453285,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,662,Saint Lucia,LCA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,115,,76718,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,9565,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,7922169,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,116777345,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1348689313,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1510703,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1635513399,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1313117,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,14470891,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,27178688,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,626722,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,33693018,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,28871563,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,704451771,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,780,Trinidad and Tobago,TTO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1274965,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,22557141,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,391893,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,36369495,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,509832,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,800,Uganda,UGA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,25556,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,2000058,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1439670,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,224593664,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,834,United Rep. of Tanzania,TZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,28192,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,6240548,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,862,Venezuela,VEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,2944617,,,6
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,894,Zambia,ZMB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6957,,0,,49902,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,860,Uzbekistan,UZB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5545,,0,,904082,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,680,,0,,15592,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,690,Seychelles,SYC,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,23050,,0,,468997,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,694,Sierra Leone,SLE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,,,6500,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,795,Turkmenistan,TKM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,818,,,,15428,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,796,Turks and Caicos Isds,TCA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,641,,0,,33632,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,776,Tonga,TON,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,21,,,,9341,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,748,Swaziland,SWZ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8968,,0,,239057,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,706,Somalia,SOM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,,,5500,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,686,Senegal,SEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4141,,0,,191562,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,674,San Marino,SMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,720,,,,3095,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4440,,0,,112650,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,583,FS Micronesia,FSM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10,,0,,13822,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,562,Niger,NER,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6,,0,,870523,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,540,New Caledonia,NCL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,141,,0,,10982,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,516,Namibia,NAM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,54737,,0,,346377,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,520,Nauru,NRU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,145,,0,,34211,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,524,Nepal,NPL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7885,,0,,28088,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,292,Gibraltar,GIB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,7760,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,496,Mongolia,MNG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2860,,0,,10733,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,498,Rep. of Moldova,MDA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1132,,0,,6807,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,499,Montenegro,MNE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,5996,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,462,Maldives,MDV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,4356,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,466,Mali,MLI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,163,,0,,24730,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,339109,,0,,770459,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,478,Mauritania,MRT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5,,0,,17047,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,60,,,,27636,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,450,Madagascar,MDG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,19,,,,47893,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,454,Malawi,MWI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1506,,0,,30874,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,417,Kyrgyzstan,KGZ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1725,,0,,11385,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,422,Lebanon,LBN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5082,,0,,89661,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1534,,0,,218979,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,46962,,0,,646430,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,324,Guinea,GIN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,,,3302,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,90,,0,,28534,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,204,Benin,BEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,14,,,,4865,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,262,Djibouti,DJI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,36150,,0,,705750,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,231,Ethiopia,ETH,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,20844,,0,,436572,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,604478,,0,,2324563,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,238,Falkland Isds (Malvinas),FLK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,2706,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,242,Fiji,FJI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11049,,0,,179156,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,72390,,0,,196870,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6382,,0,,66988,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,,,6502,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,72,Botswana,BWA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3423,,0,,44953,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,178,Congo,COG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2588,,0,,57750,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,140,Central African Rep.,CAF,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2020,,0,,25390,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,116,Cambodia,KHM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3072,,20,,18555,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4754,,0,,17077,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,20,,,,80885,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,64,Bhutan,BTN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,0,,9998,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,50,Bangladesh,BGD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6563,,0,,154554,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,51,Armenia,ARM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,64418,,0,,174686,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,31,Azerbaijan,AZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,444,,0,,37117,,,4
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,508,Mozambique,MOZ,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,162,,,,41900,,,6

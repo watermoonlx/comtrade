@@ -1,0 +1,47 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,38826,,12639758,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,31,Azerbaijan,AZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,197,,3,,866,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,1,,66,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,51,Armenia,ARM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,1,,1140,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,39,,18,,8751,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1876,,311,,73351,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8,,2,,2040,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5400,,11,,34320,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,24215,,2013562,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,16,,77,,19200,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10507,,1300,,989180,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8,,42,,2100,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,168,,230,,303974,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1155,,1008,,299114,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,66,,1332,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2841,,5213963,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,76,,28,,699,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,15,,1014,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,825,,74,,45468,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,261,,39828,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,59441,,126,,276172,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,437,,38,,10095,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7155,,2405,,2241227,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,270,,274,,62233,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,13344,,267,,67405,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,494,,491502,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2850,,1,,384,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,35,,9065,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,423,,8,,2368,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,3,,71,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,2,,386,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,794,,27,,15205,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1524,,106,,8817,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,699,India,IND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6,,3,,1009,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,160,,10,,1093,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11,,5,,2046,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,72,,253,,61268,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,17,,2,,1494,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,135,,84,,2725,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,13,,7,,6032,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,107707,,572,,5659,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,37561,,1009,,120223,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5034,,1531,,118622,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,1932,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,761,,67248,,,0
+H4,2017,2017,2017,4,0,1,Import,268,Georgia,GEO,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3661,,280,,15489,,,0

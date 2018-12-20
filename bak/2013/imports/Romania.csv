@@ -1,0 +1,63 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5879776,,1199906139,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,114,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,6871,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,221491,,34328581,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,152058,,51211130,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,37917,,19,,44163,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5544,,2100561,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,3993,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,515,,1888771,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,75,,93712,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25599,,13180614,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,7722,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11836,,9584178,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2470,,769143,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,511,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,33031,,50,,53942,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,348,,92061,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,119695,,15056473,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2134283,,583710954,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1219,,60781,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1278,,805169,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1089985,,69780743,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,153,,205490,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,77068,,51881800,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1805,,1034509,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1037365,,40924129,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1935,,1060476,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2158,,18287958,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2930,,192425,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,29,,16645,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,22161,,6483629,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,847,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3914,,10881779,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,176395,,163,,210031,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12814,,46809247,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,4277,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,473013,,145096369,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,111,,46456,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,568,"Other Europe, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,43,,40602,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,121,,137838,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2914,,5365030,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,88992,,1698574,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,132,,131159,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,22375,,10,,16038,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,6545,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,699,India,IND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,13825,,33,,14983,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1647925,,1810,,2232799,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20206,,2217800,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,32,,183123,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5746,,567878,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20,,15401,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13462,,2112713,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,85564,,11331573,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,764,,1140105,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2342,,3446886,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,341,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25858,,1455787,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,40,,129272,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,10345,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,224009,,49349157,,,6
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5503,,12369268,,,2
+H5,2017,2017,2017,4,0,1,Import,642,Romania,ROU,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,16641,,,2

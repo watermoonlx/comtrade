@@ -1,0 +1,78 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4125374,,711775495,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,4,Afghanistan,AFG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,1,,103,,,0
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,8,Albania,ALB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,2294,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1365,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,69,,39924,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16312,,8187531,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8829,,1728237,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,60,Bermuda,BMU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,20,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,45845,,55,,144732,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,3204,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,266,,62752,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,982047,,74828503,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,1538,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6372,,2355252,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,5868,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16502,,4135665,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16581,,570678,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1493,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,122,,9002,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,234,Faeroe Isds,FRO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,579,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,123,,210452,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,37757,,19976665,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,262,Djibouti,DJI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,579,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1196613,,103940195,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2971,,1919910,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21405,,6237302,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,296,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1071,,669223,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,299,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2671,,3416638,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20,,6960,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,110984,,8007624,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,219439,,16080098,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,142083,,154534214,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,132,,7882,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,5476,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,42055,,57010046,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,466,Mali,MLI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,19,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,986,,35897,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3873,,1453360,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,112116,,73153599,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14778,,337008,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,142140,,62263112,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,562,Niger,NER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,1056,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,566,Nigeria,NGA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,704,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,568,"Other Europe, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,50886,,5230281,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,625,,557100,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,74273,,14743917,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,324275,,33863533,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1516,,154997,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6826,,722203,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,5434,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,646,Rwanda,RWA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,2777,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,1111,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,694,Sierra Leone,SLE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,90,,2133,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,336,,141513,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1946,,1547181,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,23145,,8972635,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8707,,4466311,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,67,,18346,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,60,,52661,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,902,,393450,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,148,,222188,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10408,,2184022,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,253743,,8036039,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,2736,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13768,,71898,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,795,Turkmenistan,TKM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,62,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,796,Turks and Caicos Isds,TCA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,275,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,317,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,302,,66887,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,35256,,64,,34248,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,36463,,8593157,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,834,United Rep. of Tanzania,TZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,413,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,209722,,11950408,,,6
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,876,Wallis and Futuna Isds,WLF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,169,,,2
+H5,2017,2017,2017,4,0,1,Import,703,Slovakia,SVK,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8614,,8389702,,,6

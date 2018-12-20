@@ -1,0 +1,59 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,54611200,,,6
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,20,Andorra,AND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1075,,2,,1300,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,23,,0,,100,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,27418,,31,,82900,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,733,,100,,81000,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,66,,137,,25700,,,0
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,20,,0,,200,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,1,,400,,,0
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10873256,,14493,,5968700,,,6
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,220,,13,,17100,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10565,,113,,161800,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,160,,27,,16300,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,44,,4,,8600,,,0
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,32,,3,,2800,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,991,,24,,18200,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,950,,711700,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3962994,,92,,308900,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,9,,4700,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,149765,,175,,160000,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,20800,,40,,11600,,,0
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,17237,,21,,56800,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,0,,400,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,142,,187800,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,114346,,340,,325000,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11,,1,,23500,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,69689,,96,,256700,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,22985460,,121,,924200,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1837,,388,,33700,,,0
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1843939,,8351,,5022400,,,6
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2243,,15,,6300,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,167390,,93,,109800,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2168371,,2071,,3398800,,,6
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,601464,,159,,46100,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4855,,105,,53900,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,568,"Other Europe, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,1,,3200,,,0
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,90,,0,,200,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1216062,,780,,1423900,,,6
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,612,Pitcairn,PCN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,20,,0,,100,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3560,,928,,272500,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2534,,4,,6500,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,24626800,,,6
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,660,Anguilla,AIA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,12,,1,,1800,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,686,Senegal,SEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,20,,1,,100,,,0
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,699,India,IND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8567,,6,,9400,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,40594,,85,,823300,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1614,,18,,30000,,,0
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,110447,,18156,,5529500,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,1,,2100,,,0
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,969,,17,,10200,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5,,3,,4000,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,16368,,41,,87300,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2468596,,890,,1592400,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2000,,0,,600,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,13,,1,,200,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,127,,2,,10200,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3519,,510,,9600,,,4
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,932090,,2559,,2139800,,,6
+H5,2017,2017,2017,4,0,1,Import,112,Belarus,BLR,862,Venezuela,VEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,100,,,4

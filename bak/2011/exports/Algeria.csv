@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2249,,135085,,,2
+H5,2017,2017,2017,4,0,2,Export,12,Algeria,DZA,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,117,,6320,,,2
+H5,2017,2017,2017,4,0,2,Export,12,Algeria,DZA,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,270,,,2
+H5,2017,2017,2017,4,0,2,Export,12,Algeria,DZA,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2110,,110001,,,2
+H5,2017,2017,2017,4,0,2,Export,12,Algeria,DZA,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,31,,,2
+H5,2017,2017,2017,4,0,2,Export,12,Algeria,DZA,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,11,,,2
+H5,2017,2017,2017,4,0,2,Export,12,Algeria,DZA,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,397,,,2
+H5,2017,2017,2017,4,0,2,Export,12,Algeria,DZA,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,4541,,,2
+H5,2017,2017,2017,4,0,2,Export,12,Algeria,DZA,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,13512,,,2

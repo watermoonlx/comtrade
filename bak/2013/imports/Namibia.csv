@@ -1,0 +1,35 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,34376,,1716654,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,84,,77997,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,79,,3865,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,2,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10631,,207997,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,13621,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,116,,94549,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,204,Benin,BEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,9,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,318,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,3357,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,88,,36213,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,98,,12079,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,3703,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,231,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,0,,0,,516,,,0
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,384,Côte d'Ivoire,CIV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,1984,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,422,Lebanon,LBN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,3,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,0,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14,,18081,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,868,,48945,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,47,,7898,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,50,,20762,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,139,,1147,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,454,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20543,,856894,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,716,Zimbabwe,ZWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25,,149,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1179,,9319,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,4718,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,78,,78,,351,,,0
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,22,,7406,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,59,,61059,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,894,Zambia,ZMB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,180,,22,,,2
+H5,2017,2017,2017,4,0,1,Import,516,Namibia,NAM,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,34,,222988,,,2

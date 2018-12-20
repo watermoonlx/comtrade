@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,4,0,1,Import,466,Mali,MLI,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17744,,226967,,,2
+H4,2017,2017,2017,4,0,1,Import,466,Mali,MLI,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,2927,,,2
+H4,2017,2017,2017,4,0,1,Import,466,Mali,MLI,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13380,,94566,,,2
+H4,2017,2017,2017,4,0,1,Import,466,Mali,MLI,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3021,,25689,,,2
+H4,2017,2017,2017,4,0,1,Import,466,Mali,MLI,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,154,,6165,,,2
+H4,2017,2017,2017,4,0,1,Import,466,Mali,MLI,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,398,,,2
+H4,2017,2017,2017,4,0,1,Import,466,Mali,MLI,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,686,,775,,,2
+H4,2017,2017,2017,4,0,1,Import,466,Mali,MLI,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1693,,,2
+H4,2017,2017,2017,4,0,1,Import,466,Mali,MLI,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,313,,65807,,,2
+H4,2017,2017,2017,4,0,1,Import,466,Mali,MLI,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,14862,,13,,10495,,,2
+H4,2017,2017,2017,4,0,1,Import,466,Mali,MLI,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,60,,3395,,,2
+H4,2017,2017,2017,4,0,1,Import,466,Mali,MLI,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,110,,15053,,,2

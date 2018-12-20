@@ -1,0 +1,86 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,19854715,,13982206627,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,4,Afghanistan,AFG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,341,,321895,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,20,Andorra,AND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,12448,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,76,,55893,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2702,,2916278,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21391,,24430816,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,35880,,18348961,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,2122,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,70,Bosnia Herzegovina,BIH,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,445,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2262,,2640831,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,92,Br. Virgin Isds,VGB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,11222,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25558,,17440140,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,27,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14935,,13869256,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,401,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,85,,17376,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2036711,,1318513784,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,170,,49172,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,1396,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,230195,,29555924,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,427,,1013314,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,232,Eritrea,ERI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,2373,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,293,,804012,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,242,Fiji,FJI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1460,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,435,,1433187,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,415739,,229880373,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,28,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1234271,,846978070,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,288,Ghana,GHA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,28,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,126,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,332,Haiti,HTI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,45,,33833,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5435236,,4151048440,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11095,,15784314,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,22967,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4320,,4039578,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,817,,1278278,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7078,,6252038,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,28063,,16093414,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1353355,,776752877,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,35,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,588673,,517483234,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,418,Lao People's Dem. Rep.,LAO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,770,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,514,,74547,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14,,32870,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,194,,516442,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1108578,,444230166,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,19789,,7414687,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,131514,,89058727,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,840305,,1069713264,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,496,Mongolia,MNG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1400,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,499,Montenegro,MNE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,32771,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3851,,1144539,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,512,Oman,OMN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,2511,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,749379,,992881884,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,531,Curaçao,CUW,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4970,,9061850,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,629,,1389013,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12542,,297877,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9989,,14350404,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1944,,3758378,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,626,Timor-Leste,TLS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,3500,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10674,,5570680,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1825,,937241,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,654,Saint Helena,SHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,11809,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,22014,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,1868,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7046,,7537483,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3320975,,2048336056,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,915,,1165658,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,220276,,172263306,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,215,,376175,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,935,,744631,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,516,,565874,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,145,,229903,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12925,,16413297,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,438011,,285328043,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,172,,10108,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1083,,1845070,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4528,,3800581,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,800,Uganda,UGA,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,1,,210,,,0
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,253,,7983,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,106,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,3382,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,29742,,11771715,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,834,United Rep. of Tanzania,TZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,26,,6516,,,2
+H4,2017,2017,2017,4,0,2,Export,608,Philippines,PHL,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1469949,,794200952,,,2

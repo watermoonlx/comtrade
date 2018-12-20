@@ -6,5 +6,5 @@ export const appConfig = {
     yearStep: 1,
     baseUrl: 'http://comtrade.un.org/api/get',
     classificationCode: 8542,
-    parallelTaskCount: 8
+    parallelTaskCount: 10
 }

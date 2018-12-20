@@ -1,0 +1,14 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,118031,,,0
+H5,2017,2017,2017,4,0,2,Export,586,Pakistan,PAK,50,Bangladesh,BGD,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1000,,1000,,3990,,,0
+H5,2017,2017,2017,4,0,2,Export,586,Pakistan,PAK,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,23,,,0
+H5,2017,2017,2017,4,0,2,Export,586,Pakistan,PAK,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,73,,,,58137,,,0
+H5,2017,2017,2017,4,0,2,Export,586,Pakistan,PAK,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,,,4052,,,0
+H5,2017,2017,2017,4,0,2,Export,586,Pakistan,PAK,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,7002,,,0
+H5,2017,2017,2017,4,0,2,Export,586,Pakistan,PAK,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,95,,,,8328,,,0
+H5,2017,2017,2017,4,0,2,Export,586,Pakistan,PAK,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,32,,,,319,,,0
+H5,2017,2017,2017,4,0,2,Export,586,Pakistan,PAK,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,1731,,,0
+H5,2017,2017,2017,4,0,2,Export,586,Pakistan,PAK,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,,,325,,,0
+H5,2017,2017,2017,4,0,2,Export,586,Pakistan,PAK,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,198,,,0
+H5,2017,2017,2017,4,0,2,Export,586,Pakistan,PAK,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,2,,2,,32164,,,0
+H5,2017,2017,2017,4,0,2,Export,586,Pakistan,PAK,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,15,,,,1757,,,0

@@ -1,0 +1,97 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3308307135,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,20,Andorra,AND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,18856,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,61,,14117,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,69594,,8392148,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,48,Bahrain,BHR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,2,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,50414,,21312109,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,60,Bermuda,BMU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,33,,0,,217,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,28,,29844,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3034,,2403250,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,104,Myanmar,MMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,21,,0,,138,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17,,18984,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,116,Cambodia,KHM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,2343,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14,,1537,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,140,,468370,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,15176,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,899971,,378512266,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,184,Cook Isds,COK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,235,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7901,,31647751,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,33,,3959,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,467,,24202,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2750,,1070142,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,14,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,197,,31630,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,890,,163473,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,75814,,12070023,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1518,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5992182,,182266425,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,78,,27339,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,324,Guinea,GIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,231,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,334,Heard Island and McDonald Islands,HMD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,153,,15,,7889,,,0
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3650,,2230319,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,35142,,851648,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,37,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8746,,3539348,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,192,,53770,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,83721,,24177202,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,847,,421373,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,164232,,16971999,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,103105,,58601054,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,2638,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,77579,,201331050,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,414,Kuwait,KWT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,22,,1,,147,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,422,Lebanon,LBN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,918,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21,,2970,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1817,,330218,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,587,,48998,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,131,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,461473532,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,462,Maldives,MDV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,5955,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,466,Mali,MLI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,21,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,897,,383281,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,478,Mauritania,MRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,243,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4699,,1981808,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,165794,,120858025,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,499,Montenegro,MNE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1195,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3173,,669192,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,508,Mozambique,MOZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,4498,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,516,Namibia,NAM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,914,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,520,Nauru,NRU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4151,,51139,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1456254,,575133453,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,568,"Other Europe, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1872,,408492,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,570,Niue,NIU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,5187,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,816,,258164,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,4,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,295380,,63465712,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,271852,,26974513,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,145,,20296,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,626,Timor-Leste,TLS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,44,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,71951,,8826280,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,34,,11977,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,652,Saint Barthélemy,BLM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,305,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,627,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,686,Senegal,SEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,7,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,1103,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,260,,292081,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,25073939,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,35289,,3847389,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,157613,,66052685,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1099,,137770,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,53078,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,19842,,1365689,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1519,,860638,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10339,,4286510,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,31159078,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,772,Tokelau,TKL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,54,,0,,351,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20,,164421,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1253,,12,,4391,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,160,,25966,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,796,Turks and Caicos Isds,TCA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,49,,10,,167,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,12029,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,16,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,312,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,601013,,893322947,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,680389,,73947454,,,6
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,882,Samoa,WSM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1924,,,2
+H5,2017,2017,2017,4,0,1,Import,203,Czechia,CZE,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,136,,94325,,,2

@@ -1,0 +1,7 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,125,,13625,,,2
+H5,2017,2017,2017,4,0,2,Export,450,Madagascar,MDG,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,38,,,2
+H5,2017,2017,2017,4,0,2,Export,450,Madagascar,MDG,174,Comoros,COM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,35,,2789,,,2
+H5,2017,2017,2017,4,0,2,Export,450,Madagascar,MDG,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,1769,,,2
+H5,2017,2017,2017,4,0,2,Export,450,Madagascar,MDG,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,1735,,,2
+H5,2017,2017,2017,4,0,2,Export,450,Madagascar,MDG,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,80,,80,,7292,,,0

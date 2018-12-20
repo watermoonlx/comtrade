@@ -2,10 +2,11 @@ import { appConfig } from '../app.config';
 import { getReporters } from './tradeArea';
 import { Task } from './Task';
 import { initDownloadDir } from './dirUtils';
-
+import { ProxyPool } from './proxyPool';
 export class TaskManager {
 
     private taskList: Task[] = [];
+    private proxyPool = new ProxyPool();
 
     get totalTaskCount() {
         return this.taskList.length;
@@ -23,22 +24,27 @@ export class TaskManager {
         return this.taskList.filter(i => i.status === 'completed').length;
     }
 
-    constructor() {
-    }
-
-    init() {
-        initDownloadDir();
-        this.initTasks();
+    async initAsync() {
+        try {
+            initDownloadDir();
+            await this.proxyPool.initAsync();
+            this.initTasks();
+        }
+        catch (err) {
+            console.error('初始化失败，请重启应用!');
+            throw err;
+        }
     }
 
     async runAsync() {
         console.log(`开始。任务总数: ${this.totalTaskCount}.`);
         while (this.sleepingTaskCount > 0) {
-            console.log(`进度: ${this.completedTaskCount / this.totalTaskCount * 100}%.`);
-            console.log(`已完成任务: ${this.completedTaskCount}, 未完成任务：${this.sleepingTaskCount}, 正在执行中的任务: ${this.runningTaskCount}. `);
-            if (this.runningTaskCount < appConfig.parallelTaskCount) {
+            if (this.runningTaskCount <= appConfig.parallelTaskCount) {
+                console.log(`进度: ${this.completedTaskCount / this.totalTaskCount * 100}%.`);
+                console.log(`已完成任务: ${this.completedTaskCount}, 未完成任务：${this.sleepingTaskCount}, 正在执行中的任务: ${this.runningTaskCount}. `);
+                console.log(`当前可用代理IP数：${this.proxyPool.poolSize}. `);
                 const task = this.nextTask();
-                task!.runAsync('');
+                task!.runAsync();
             }
             await this.delayAsync(1);
         }
@@ -49,8 +55,8 @@ export class TaskManager {
         console.log(`初始化任务...`);
         for (let year = appConfig.startYear; year <= appConfig.endYear; year += appConfig.yearStep) {
             for (const area of getReporters()) {
-                this.taskList.push(new Task(year, area, 'imports'));
-                this.taskList.push(new Task(year, area, 'exports'));
+                this.taskList.push(new Task(year, area, 'imports', this.proxyPool));
+                this.taskList.push(new Task(year, area, 'exports', this.proxyPool));
             }
         }
         console.log(`初始化完成。一共有${this.totalTaskCount}个任务。`);

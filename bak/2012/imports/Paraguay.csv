@@ -1,0 +1,36 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,30700,,1809931,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,56,,9203,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1590,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1158,,34910,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21,,1720,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25853,,1090952,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,88,,89564,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,4003,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,31,,12621,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,33,,857,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,105,,67675,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1267,,82161,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,418,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,1079,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,250,,61812,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,31,,19964,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,126,,3091,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,44,,2634,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,177,,6787,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,101,,41068,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,248,,33040,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,1747,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,2147,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,5348,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,21961,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,674,San Marino,SMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,1385,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,505,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,1541,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,19,,2841,,,2
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,378,,26373,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,10116,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20,,626,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,543,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,947,,,6
+H5,2017,2017,2017,4,0,1,Import,600,Paraguay,PRY,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,597,,168702,,,6

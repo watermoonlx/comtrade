@@ -1,0 +1,63 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,19444249476,,,6
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,31,,27945,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8107,,8194064,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,33425,,33591417,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,25819,,115,,105217,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,78701,,,,270604,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,72520,,200,,205432,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,39309,,34120250,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1904191,,1724457783,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,16814,,,,1292426,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,56849984,,,,12333826,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,22617,,,,770949,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,174,,197505,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,53702,,48762529,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,177995,,172371492,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,797503,,,6
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,56991,,10361855,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,255,,257925,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,61367,,60814880,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,55191266,,588838,,517224411,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,69287,,60489705,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,146700,,126827688,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1751218,,1706025529,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,40,,,,2987,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,100,,,,4859,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,454,Malawi,MWI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10668,,,,7686,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,885703,,767380007,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,761,,698902,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,19584,,25,,26036,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13707,,11641959,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10174081,,9806336084,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,499,Montenegro,MNE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,270,,,,4066,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,321680,,514,,453995,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,516,Namibia,NAM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3560,,2,,2978,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13610,,12436484,,,6
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,540,New Caledonia,NCL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,182218,,316,,324221,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,428,,,,23700,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,54,,,,150924,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,581,United States Minor Outlying Islands,UMI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,16000,,121,,124263,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,7,,7,,32447,,,0
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,448765,,416571890,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4858,,,,81463,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3706000,,,,5681927,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4500,,9,,10120,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,50089,,,,25689,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,686,Senegal,SEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1924,,,,9567,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,339,,303195,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1051595,,917401609,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,654654,,,,331550,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,36342,,34274100,,,6
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,128,,,,26090,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2404,,,,13241,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16682,,14375766,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3008,,,,1056935,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7456,,7542037,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,509715,,473850119,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2391,,,,54347,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5266,,,,146546,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,800,Uganda,UGA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2500,,,,3941,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7052,,,,11270,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,34348,,33146205,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2607818,,2420179311,,,4

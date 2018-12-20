@@ -1,0 +1,28 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,27741624,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,3398,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6811,,2911205,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3208,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,36991,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,65275,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3696525,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,8,,,,2337,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,415,,121779,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,65599,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,449,,276714,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,18451735,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,61657,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,258364,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,107604,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1298,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,24,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,699,India,IND,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,0,,,,51,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,834201,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,,,416,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,25497,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,527,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,10535,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,716903,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1416,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,972,,,6
+H4,2017,2017,2017,4,0,1,Import,818,Egypt,EGY,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,107,,87381,,,6

@@ -1,0 +1,121 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,910668343,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,8,Albania,ALB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,1537,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,12,Algeria,DZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,16005,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,23395,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,254260,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,3395946,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,725784,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,14,,,,3711,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,48,Bahrain,BHR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6,,,,1686,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,50,Bangladesh,BGD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,338,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,52,Barbados,BRB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,24,,0,,2910,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,196979,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,26,,,,1900,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,3,,3375,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,72,Botswana,BWA,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,2,,,,709,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1454038,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8,,0,,7602,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,65235,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,221,,0,,51719,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,136,Cayman Isds,CYM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5,,0,,1161,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,11459,,,,2951736,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,414622,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,7276680,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,22965,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,178,Congo,COG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,611,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,16177,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,0,,10189,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,5216,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,192,Cuba,CUB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,2220103,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,1772,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1785296,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1038721,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,253,,,,204444,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,365,,,,25901,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1736,,,,1606,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,231,Ethiopia,ETH,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,18,,,,4857,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,27484,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,242,Fiji,FJI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,82,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,529322,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2559197,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,75,,,,19560,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,6492660,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,288,Ghana,GHA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3435,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,45377,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2317,,,,1831,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,328,Guyana,GUY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3002,,,,6691,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,340,Honduras,HND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,22,,0,,7174,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,15719306,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,53984,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,0,,4186,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1487,,0,,26896,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,0,,1686,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,86400,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1226530,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,856581,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,5186,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,4686640,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,614,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,12793602,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4688,,,,145119,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,9940,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,31274,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,112262,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1110,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,2060522,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,466,Mali,MLI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10,,0,,1337,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,128146,,0,,56835,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,0,,,,151,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,15995580,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,7735964,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,496,Mongolia,MNG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,0,,1692,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,498,Rep. of Moldova,MDA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,4371,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,23634,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,512,Oman,OMN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,66,,,,3443,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,17289360,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,533,Aruba,ABW,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2107,,,,6610,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,74355,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,6036,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,465015,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,35663,,0,,64389,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2560,,0,,84129,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,68760,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1681137,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,692687,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2933,,0,,13989,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11692,,0,,307403,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,58263,,0,,210667,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1802329,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,646,Rwanda,RWA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1832,,0,,2708,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,659,Saint Kitts and Nevis,KNA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,154,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,662,Saint Lucia,LCA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,272,,,,3297,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,1860,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,265988,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,16,,0,,6901,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1076450,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,23056709,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,21301,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,48490,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2671,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,24356,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,711140,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,12,,0,,27,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,488256,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,517263,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,8401842,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,768,Togo,TGO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,1344,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,8763,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,745626,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,0,,4161,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,203497,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,795,Turkmenistan,TKM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,30838,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2448,,0,,14640,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,200,,,,9847,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,0,,8019,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3606023,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,2150,,,0
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,754971438,,,6
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,2742,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1716,,0,,135450,,,4
+H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,,,618,,,4

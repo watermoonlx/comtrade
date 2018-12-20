@@ -1,0 +1,73 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2183994970,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,13652,,,,717767,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,18946,,,,191281,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,125831,,,,153546,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,52,Barbados,BRB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,17,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8391,,,,387308,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,68,Bolivia (Plurinational State of),BOL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,52,,,,5958,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2827407,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,84,Belize,BLZ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,150,,,,3264,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5500,,,,900,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,8451842,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,414,,,,105961,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,369210115,,,,38012079,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,413692,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,252381,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,192,Cuba,CUB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,759660,,,,1042792,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1001296,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1600,,,,2822,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2415,,,,22797,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,546,,,,77596,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1932,,,,20851,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,14753,,13,,14103,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,79762,,,,16562,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,424719,,,,1469142,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1376607,,,,2330881,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,320,Guatemala,GTM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,12406,,,,420810,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,340,Honduras,HND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2346,,,,10772,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,63786661,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1250449,,,,2384830,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,150875,,,,330747,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10046,,,,9441,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,32645,,,,47400,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,8579,,,,4759,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,14586994,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,24692425,,,,12227295,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3000,,,,78,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10,,,,918,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,7818176,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,5635181,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,25,,,,1,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,194391066,,,,32818188,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,531,Curaçao,CUW,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,60000,,,,32609,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,14,,,,8425,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,558,Nicaragua,NIC,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1563,,,,43277,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,20,,,,854,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,22588,,,,40442,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,600,Paraguay,PRY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,432,,,,11822,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4411,,,,317196,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1640212,,,,986287,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,422203,,,,737262,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,50,,,,4,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,244729,,,,584852,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3800,,,,25057,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,659,Saint Kitts and Nevis,KNA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,114,,,,2683,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,42,,,,5914,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,699,India,IND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,435770,,,,1186137,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,59635226,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,462793,,,,702793,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1215259,,,,1075665,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,15380,,,,16649,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,424697,,,,520472,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,9287,,,,19811,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1144,,,,26431,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2239976,,,,815412,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11,,,,15837,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6,,,,5223,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,21900,,,,16309,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,523771,,,,2410658,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1917095423,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,285,,,,46191,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,862,Venezuela,VEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,389,,,,5254,,,4
+H4,2017,2017,2017,4,0,2,Export,484,Mexico,MEX,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,300,,,,299,,,4

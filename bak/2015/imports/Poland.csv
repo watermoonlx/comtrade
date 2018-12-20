@@ -1,0 +1,100 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7209536,,2212989789,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,20,Andorra,AND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1634990,,3110,,1309625,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,246,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,189,,20101,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,164988,,14157666,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,85802,,11639856,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,106,,52382,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4082,,113481,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,104,Myanmar,MMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,17,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,17339,,4,,32812,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,171,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6949,,8476806,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,140,Central African Rep.,CAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,2104,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1872,,4,,3355,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,148,Chad,TCD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,87,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21,,12543,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,680040,,207279222,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,166,Cocos Isds,CCK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8961,,15472062,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,760,,25937,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,44228,,146,,137062,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,402692,,26305196,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,40129,,10089625,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,434,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,98254,,616,,288767,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2965,,1048635,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,266547,,87493254,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,258,French Polynesia,PYF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,135,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,165,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1751119,,218395012,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21,,4076,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2891,,2989061,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,124074,,9212802,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,24278,,2328855,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,9763,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,23179,,4444561,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,771,,227161,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,966927,,35143036,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,97536,,30664610,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,83,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,400,Jordan,JOR,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,1,,725,,,0
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,928,,82036,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,23,,17726,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,148382,,161139458,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,38,,42222,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,174347,,6503,,341814,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2588434,,5547,,5834722,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,446,"China, Macao SAR",MAC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,82,,4867,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,454,Malawi,MWI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,239897,,71348618,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,462,Maldives,MDV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,34,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,466,Mali,MLI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,5871,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6128,,3860775,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,478,Mauritania,MRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,1099,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17,,8984,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13863,,4128399,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,184393,,187591577,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,496,Mongolia,MNG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,52,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,498,Rep. of Moldova,MDA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,577,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7752,,1636961,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,516,Namibia,NAM,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,0,,0,,30,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,520,Nauru,NRU,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,28,,28,,107731,,,0
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,795841,,720529954,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,540,New Caledonia,NCL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,145,,1074,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3196,,2,,5028,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,558,Nicaragua,NIC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,789,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,562,Niger,NER,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,755705,,1391,,889883,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8870,,762491,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,581,United States Minor Outlying Islands,UMI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,251,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,115,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,410,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,134956,,89805565,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,188,,88705,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,24985,,8006813,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,57,,34804,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,666,Saint Pierre and Miquelon,SPM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,9531,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,674,San Marino,SMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,92,,,4
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,24,,2753,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,694,Sierra Leone,SLE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,8,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2051,,510588,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,36228,,85772217,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,34793,,1022006,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1347,,2457706,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6603,,188385,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,118,,190087,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,356856,,12618442,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,63965,,43547916,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14502,,12859904,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,141218,,24748920,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,12987,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,25278,,65,,24622,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6024,,1526635,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,796,Turks and Caicos Isds,TCA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,153,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,378,,,6
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,4080,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,156737,,32263903,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,148125,,51153304,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,862,Venezuela,VEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,346,,,2
+H5,2017,2017,2017,4,0,1,Import,616,Poland,POL,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1850,,413898,,,6

@@ -1,0 +1,103 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4926605,,649059938,,,6
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,12,Algeria,DZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,85,,6657,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,534,,1040535,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,24,Angola,AGO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,122,,30702,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,28,Antigua and Barbuda,ATG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,946,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,45,,504861,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,192,,57180,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6045,,863680,,,6
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,25,,25,,320,,,0
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15420,,1872210,,,6
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,470,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,900,,347726,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3086,,569362,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,1449,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,469,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2738,,801078,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,39761,,39761,,756040,,,0
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,48,,7922,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,208271,,59052354,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,264,,9540,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1425,,276960,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,39,,761,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,157,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,78537,,9113402,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4630,,548622,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,655,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,19,,1796,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,136,,2053,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,168,,10788,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5081,,1371402,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,426010,,31271475,,,6
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1710642,,165892414,,,6
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,288,Ghana,GHA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,1327,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25,,338,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,89,,36229,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,308,Grenada,GRD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,100,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,66,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,340,Honduras,HND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,421,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,24973,,1680096,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,939,,189356,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,50083,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,89,,36534,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,88,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,368,Iraq,IRQ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,99,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,40628,,3983608,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,777,,1946396,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,395364,,16207766,,,6
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,410194,,85663756,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,766,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,90,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12738,,2887844,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,600,,122978,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,12441,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,27941,,1649112,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,454,Malawi,MWI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,1134,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,22241,,9001371,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,466,Mali,MLI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,33,,24419,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,2048,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2374,,106541,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4855,,652341,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,27441,,15196032,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,499,Montenegro,MNE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,16102,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,23171,,2413932,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,367740,,91285626,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,20861,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,562,Niger,NER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,57,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,568,"Other Europe, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,28198,,5568755,,,6
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,467,,407140,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,580,N. Mariana Isds,MNP,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,1,,28,,,0
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,607,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21,,1684,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,467,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17287,,4923311,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,48338,,2826404,,,6
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,202415,,3074232,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2687,,242445,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17,,13100,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,659,Saint Kitts and Nevis,KNA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,31,,46788,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,101,,1518,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,1241,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,690,Seychelles,SYC,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,80,,80,,881,,,0
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2534,,181736,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,755,,1057505,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15289,,4432948,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1253,,126225,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7098,,97852,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,118,,16511,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,135618,,2801067,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3216,,1099021,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,762,Tajikistan,TJK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,159,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,24005,,5140410,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2291,,65267,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,218,,8330,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3446,,134147,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,68,,16563,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,744,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,929,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,269117,,42936891,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,295346,,66219886,,,6
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,860,Uzbekistan,UZB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,10882,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,51,,,2
+H5,2017,2017,2017,4,0,1,Import,724,Spain,ESP,894,Zambia,ZMB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,220,,,2

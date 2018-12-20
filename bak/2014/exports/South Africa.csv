@@ -1,0 +1,92 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,23121770,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6958,,668675,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,356,,,,198,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,126,,94838,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,115,,111820,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3843,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,72,Botswana,BWA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,200530,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,20740,,,,88830,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,120,Cameroon,CMR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,8086,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,144,,122671,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,271,,,,43165,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,669270,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,,,874,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,178,Congo,COG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,59664,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,115702,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,44,,,,27826,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,158,,158,,1931,,,0
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,226,Equatorial Guinea,GNQ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,28,,,,17927,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,231,Ethiopia,ETH,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7,,,,14841,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,45411,,,,42842,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,36,,29195,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,93,,4117,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1292,,499567,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,288,Ghana,GHA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,67962,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,324,Guinea,GIN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,36,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1073,,548079,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,9869,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,87,,45322,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,12,,,,4422,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,42,,30276,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,9895,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,384,Côte d'Ivoire,CIV,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1635,,1635,,10521,,,0
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,388,Jamaica,JAM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,84,,,,8377,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,442,,66,,58837,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,32846,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,144,,67222,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,414,Kuwait,KWT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,23,,,,9827,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,417,Kyrgyzstan,KGZ,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6,,,,9824,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,426,Lesotho,LSO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,656,,145630,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,450,Madagascar,MDG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,645,,140688,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,454,Malawi,MWI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,537,,187976,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,156,,120846,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,466,Mali,MLI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,24,,,,14323,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,91,,28232,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,20,,,,61,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,116,,2900,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,508,Mozambique,MOZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,22860,,512089,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,512,Oman,OMN,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,22,,22,,414,,,0
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,516,Namibia,NAM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9655,,939303,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,283750,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,5848,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,566,Nigeria,NGA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,155837,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,58,,,,2277,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,277,,277,,17567,,,0
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,,,998,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,3087,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,6987,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,52,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,843,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,26638,,,,30988,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,50,,,,6510,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,646,Rwanda,RWA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,58,,,,11646,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,654,Saint Helena,SHN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6,,,,4310,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,506,,,,33147,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,686,Senegal,SEN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,1452,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10,,,,14121,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,690,Seychelles,SYC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,89357,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,694,Sierra Leone,SLE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,2125,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,41,,17500,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,39533,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,93,,93,,514,,,0
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,636,,148491,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,716,Zimbabwe,ZWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1035,,196149,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,9061,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,729,Sudan,SDN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,60,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,748,Swaziland,SWZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,546,,70478,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,62,,65214,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,27,,18,,16517,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,70,,24930,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,768,Togo,TGO,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,1,,1650,,,0
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,780,Trinidad and Tobago,TTO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11,,,,866,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16030,,14105036,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,800,Uganda,UGA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,10660,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1256,,,,1949,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,380777,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,834,United Rep. of Tanzania,TZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,29585,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,839,Special Categories,,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2889,,,,97820,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,21132,,805061,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,854,Burkina Faso,BFA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6,,2,,2430,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,894,Zambia,ZMB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1637,,583831,,,4
+H5,2017,2017,2017,4,0,2,Export,710,South Africa,ZAF,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,550,,,,10524,,,4

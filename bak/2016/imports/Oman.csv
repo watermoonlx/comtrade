@@ -1,0 +1,31 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,87341,,2906363,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,281,,8673,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,150,,46187,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1734,,56540,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,27,,14972,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,795,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,355,,68699,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1201,,210132,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10846,,118431,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,50,,3586,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1451,,8078,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,147,,2465,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,22,,2587,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,885,,94491,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,95,,3992,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,470,,17061,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,11,,11,,1048,,,0
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,947,,808,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,19,,7399,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1850,,4286,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,232,,22821,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,73,,1383,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,704,,14611,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,257,,14353,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,127,,102652,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,82,,1180,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,63427,,1191521,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,4538,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,566,,601245,,,2
+H5,2017,2017,2017,4,0,1,Import,512,Oman,OMN,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1317,,281815,,,2

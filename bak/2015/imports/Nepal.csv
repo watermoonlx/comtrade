@@ -1,0 +1,23 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,291344,,,6
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,206,,,,2665,,,4
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,55,,41147,,,6
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,580,,,4
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,2718,,,6
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,59,,,4
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,,,13,,,4
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,212,,,6
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,45,,,,486,,,4
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,22195,,19,,19600,,,4
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,15118,,9,,8778,,,4
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,855,,,,1638,,,4
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,18444,,29,,28768,,,4
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,10,,,,4723,,,4
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1511,,,,2524,,,4
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,108717,,,6
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,0,,149,,,4
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,25,,,,53,,,4
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6,,,,60,,,4
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1116,,,6
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,90,,0,,263,,,4
+H4,2017,2017,2017,4,0,1,Import,524,Nepal,NPL,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,511,,69,,67066,,,4

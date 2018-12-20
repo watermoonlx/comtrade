@@ -1,0 +1,50 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,4948541,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,12,Algeria,DZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,770,,,2
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1976,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,32140,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,719,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,100,,1310731,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,105,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,36,,80619,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1096,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,360,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,43417,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,363628,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2254,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,947,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,4493,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,680018,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,97,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,72993,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,9665,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,755,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2,,86882,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1850,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,451,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1019,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,422,Lebanon,LBN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,818,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,98,,,2
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,21680,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,499,Montenegro,MNE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,106611,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11,,533798,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3933,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,15079,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,714,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,829,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,45,,416150,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,88,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,2255,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,29721,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,203,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,86,,427390,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,219,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,716,Zimbabwe,ZWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,441,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,7221,,,2
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,3423,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,2454,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2346,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,7801,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,26,,322220,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,119682,,,6
+H5,2017,2017,2017,4,0,2,Export,191,Croatia,HRV,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,481,,226382,,,6

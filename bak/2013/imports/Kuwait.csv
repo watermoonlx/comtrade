@@ -1,0 +1,37 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,141055,,6882878,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,1,,1862,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,20,,20,,13987,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7,,5,,35268,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,112,,1535,,33844,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12166,,1050991,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,19,,110,,30791,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,17,,12672,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,22,,15,,13322,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,53,,173792,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,581,,111923,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,15,,15,,210,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,122,,1587,,18293,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,331,,79589,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,450,,1073,,70450,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,422,Lebanon,LBN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2149,,590424,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15621,,1106629,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,79,,104,,98119,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3584,,3505,,324702,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5,,2,,16315,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,2073,,245730,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,526,,826,,54534,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,67,,49,,7869,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,452,,81,,6273,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6622,,389163,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,867,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1106,,4084,,240544,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,14,,14,,379,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,132261,,3448,,260107,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,9,,18,,10727,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,80,,50,,15959,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,246,,1069,,57214,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,74258,,715475,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,255,,76,,188317,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1240,,49519,,,0
+H5,2017,2017,2017,4,0,1,Import,414,Kuwait,KWT,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8244,,857002,,,0

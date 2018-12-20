@@ -1,0 +1,62 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,928625,,79066699,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,11600,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1284,,51977,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7575,,337104,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,220,,235945,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,189,,5568,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5,,1301,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,409,,161730,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,618361,,30792403,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,303,,69166,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,1606,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,173,,235712,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,678,,48562,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,160,,5236,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,24,,11943,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9901,,4619581,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5776,,2082216,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,27,,4250,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1698,,143232,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2051,,1144551,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1223,,220515,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,756,,48394,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13256,,3251548,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9130,,1732477,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,400,Jordan,JOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,109,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,2520,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6434,,209342,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,141,,2382,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,35,,24024,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,219,,19677,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,31284,,3418452,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,139,,997,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,481,,24714,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1342,,113089,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,61,,14418,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,217,,134371,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,27,,10460,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4346,,179381,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2281,,724026,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,105,,12263,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,100,,50813,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,89,,333,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,11,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9014,,209431,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1605,,2044531,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,196,,200065,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,144244,,15524294,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18,,4577,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,71,,1978,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,26098,,2248733,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,748,Swaziland,SWZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,18,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,241,,234737,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2217,,369046,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,762,Tajikistan,TJK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3523,,130219,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2650,,770693,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,352,,2120,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,61,,1699,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5871,,88414,,,6
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,426,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3680,,1463212,,,2
+H5,2017,2017,2017,4,0,1,Import,12,Algeria,DZA,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8239,,5614481,,,6

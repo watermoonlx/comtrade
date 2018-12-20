@@ -1,0 +1,54 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,77488176,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,20825,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1105,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,6724,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,14804,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,92,Br. Virgin Isds,VGB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,276,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2767,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,104,Myanmar,MMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,807,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,61478,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,132,Cabo Verde,CPV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1443,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,148,Chad,TCD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,230,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,118,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,20678454,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3207,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,13048,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,20319,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,771,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,,,460,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,18269,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,275,State of Palestine,PSE,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,10,,,,2990,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,714345,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,320,Guatemala,GTM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,11838,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,38028,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,747,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2548,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,58266,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,32404,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,236331,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1497,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,89125,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,6810780,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,36373,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1395,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,2786,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,316,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,31996,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,4052,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,863,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,97299,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,3,,,,867,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,8079,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,8110,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,106507,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,729,Sudan,SDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,420,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,5990,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,202460,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,26345,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,27203,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,302,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2556200,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,150862,,45521602,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3431,,,6
+H5,2017,2017,2017,4,0,1,Import,214,Dominican Rep.,DOM,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1553,,,6

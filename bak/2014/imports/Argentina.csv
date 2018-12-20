@@ -1,0 +1,52 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1835957,,177199876,,,2
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,4,Afghanistan,AFG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,400,,4,,955,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11,,3,,6175,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1022,,12,,15517,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,468,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,63274,,549,,65183,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4511,,23,,28883,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1017417,,66818862,,,2
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,30,,0,,398,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3208,,1005,,497764,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,6,,4,,1459,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3061,,3,,3565,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4,,4,,4165,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,1,,2594,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,203299,,107,,114491,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3612,,1573052,,,2
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,292,Gibraltar,GIB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3000,,20,,320,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2392645,,9241,,788163,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,210,,52,,15699,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,1552,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,11406,,75,,37405,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,13,,0,,25,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,30,,41,,25985,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3649675,,687,,1182190,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,9442599,,48899,,6100539,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,240343,,13107595,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3470859,,88301,,25719811,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,50968,,492,,181848,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,532757,,7834,,505936,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,305579,,20981297,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,12200372,,7428,,4090822,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,44265,,21,,11504,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,4,,2569,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,0,,96,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,4628421,,16984,,1765985,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7,,83,,1558,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7,,1,,6257,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,117,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,699,India,IND,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2155,,5,,3334,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,729656,,16547,,672525,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,32,,32,,4116,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,332624,,53481,,28644360,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,23005,,63,,9856,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1377,,380,,21343,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,38,,4,,14016,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,45,,97350,,,2
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10407,,2525195,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,0,,28,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,63686,,133,,23793,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5602,,1510926,,,0
+H4,2017,2017,2017,4,0,1,Import,32,Argentina,ARG,899,"Areas, nes",,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,125000,,410,,12206,,,0

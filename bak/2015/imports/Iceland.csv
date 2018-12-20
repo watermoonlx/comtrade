@@ -1,0 +1,44 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12565,,3251443,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,46,,8490,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,198,,4323,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,35,,1331,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,663,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1629,,522715,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,3994,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,343,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25,,7431,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,340,,251383,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,193,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,32,,32,,6926,,,0
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2655,,404932,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,74,,8084,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,594,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,92,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,2502,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1906,,213610,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,102,,101106,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,41156,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,159,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2004,,534117,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,6336,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1350,,175788,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,795,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,79,,35357,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,308,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,11839,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,64,,68167,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,1374,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18,,15791,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,13,,1146,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,25,,13921,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,18,,333,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,2538,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,17,,3694,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,42,,3094,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,122,,80863,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,28,,12503,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,757,,272339,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,67,,,2
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,332,,74735,,,6
+H5,2017,2017,2017,4,0,1,Import,352,Iceland,ISL,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,533,,356290,,,6

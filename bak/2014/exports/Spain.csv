@@ -1,0 +1,134 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5334522,,306756320,,,6
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,8,Albania,ALB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1378,,68382,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,12,Algeria,DZA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,75,,38506,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9133,,8046674,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,249,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,1,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,32,Argentina,ARG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1472,,1101641,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10386,,682101,,,6
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,40,Austria,AUT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11696,,843203,,,6
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,0,,484,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,1371,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,10972,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,51,Armenia,ARM,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,7,,7,,1083,,,0
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10232,,1625063,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,428,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9,,3174,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,311,,311,,6686,,,0
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,72,Botswana,BWA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,8,,4295,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4957,,746084,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5144,,46479,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,112,Belarus,BLR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,5380,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,396,,393172,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,523,,5345,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,49,,2820,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9118,,732188,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,30484,,4257981,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,910,,723025,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,872,,35201,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,191,Croatia,HRV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,69,,19907,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,192,Cuba,CUB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,9269,,1855297,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1609,,628334,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4892,,3255499,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,20264,,1777612,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,321,,58923,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,435,,127975,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,12,,2115,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3075,,82937,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,231,Ethiopia,ETH,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,14,,2322,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,233,Estonia,EST,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2177,,89362,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1430,,1457875,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,576687,,32849336,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1,,111,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,268,Georgia,GEO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,96,,6011,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,270,Gambia,GMB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,302,,937,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1227557,,36072247,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2493,,268426,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,300,Greece,GRC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,32590,,971849,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,316,Guam,GUM,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,0,,0,,22,,,0
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,125,,11801,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,324,Guinea,GIN,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,7,,7,,783,,,0
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,340,Honduras,HND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,850,,141863,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5102,,2043047,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,348,Hungary,HUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7200,,2545277,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,352,Iceland,ISL,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,78,,78,,3849,,,0
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,331,,166455,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,364,Iran,IRN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,43,,418,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,368,Iraq,IRQ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,59,,2967,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15612,,259437,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,376,Israel,ISR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16694,,2418224,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,528865,,17671550,,,6
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,33,,5990,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,125,,22370,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,82926,,4858342,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2262,,124320,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,400,Jordan,JOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6311,,607189,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,404,Kenya,KEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6,,3676,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1938,,1873658,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1286,,84284,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,64,,9796,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,428,Latvia,LVA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,586,,35070,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,11637,,274059,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,442,Luxembourg,LUX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,768,,76612,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,454,Malawi,MWI,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,6,,6,,265,,,0
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,663,,984992,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,466,Mali,MLI,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,31,,31,,1922,,,0
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,255,,77420,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,626,,38656,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,10,,3242,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,484,Mexico,MEX,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7391,,2045536,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,970,,165390,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,498,Rep. of Moldova,MDA,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,47,,47,,8616,,,0
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,499,Montenegro,MNE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,3,,155,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,504,Morocco,MAR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,278372,,97428930,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,512,Oman,OMN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,15,,625,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,516,Namibia,NAM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,87,,2630,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,107433,,9835240,,,6
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,534,Saint Maarten,SXM,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,1,,1,,1187,,,0
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,540,New Caledonia,NCL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,143,,44981,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,748,,65025,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,27,,7950,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,13,,13,,4377,,,0
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,579,Norway,NOR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1956,,459077,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,23207,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,325,,28284,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,36,,20142,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,604,Peru,PER,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,797,,184292,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1618,,79450,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1103819,,13838260,,,6
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,620,Portugal,PRT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,274842,,9347162,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,67,,5914,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5408,,612954,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2299,,581262,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,674,San Marino,SMR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16,,644,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,678,Sao Tome and Principe,STP,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,49,,49,,6626,,,0
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1220,,249920,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,686,Senegal,SEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,58,,12043,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,573,,57480,,,6
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,10,,10,,133,,,0
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,88341,,3352923,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,502,,435888,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,703,Slovakia,SVK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2533,,682929,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,162,,61942,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,6939,,39022,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,16669,,569035,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,190569,,1035829,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,5191,,1893354,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,1900,,1241760,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,768,Togo,TGO,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,4,,805,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,7,,7,,1475,,,0
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,380,,614116,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,175,,33962,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,2112,,1009727,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,151,,27726,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,807,TFYR of Macedonia,MKD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,155,,6133,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,383,,120015,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,529985,,20191481,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,47,,47,,4637,,,0
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,837,Bunkers,,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,149,,17903,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,34227,,6873566,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,8542,Electronic integrated circuits,8,Weight in kilograms,,,5,,5,,228,,,0
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,858,Uruguay,URY,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,519,,158347,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,860,Uzbekistan,UZB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,23,,5033,,,2
+H5,2017,2017,2017,4,0,2,Export,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,7,,4310,,,2

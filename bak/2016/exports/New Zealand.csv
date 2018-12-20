@@ -1,0 +1,56 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,9249552,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,16,American Samoa,ASM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,349,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,36,Australia,AUS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2772486,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,56,Belgium,BEL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,4291,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,90,Solomon Isds,SLB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,470,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,124,Canada,CAN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,7491,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,152,Chile,CHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3102,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,156,China,CHN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,569269,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,170,Colombia,COL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,4739,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,184,Cook Isds,COK,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,76174,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,188,Costa Rica,CRI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,70575,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,203,Czechia,CZE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,13717,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,208,Denmark,DNK,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,,,95,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,218,Ecuador,ECU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,5,,,,162,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,242,Fiji,FJI,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,201739,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,246,Finland,FIN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2619,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,251,France,FRA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,38752,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,258,French Polynesia,PYF,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,1428,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,276,Germany,DEU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,33341,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,296,Kiribati,KIR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,991,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1187137,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,360,Indonesia,IDN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,68,,,,7903,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,372,Ireland,IRL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,150,,,,2516,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,381,Italy,ITA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,15293,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,392,Japan,JPN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,22389,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,410,Rep. of Korea,KOR,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,7,,,,6143,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,414,Kuwait,KWT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,768,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,418,Lao People's Dem. Rep.,LAO,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,498,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,440,Lithuania,LTU,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,9,,,,1010,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,458,Malaysia,MYS,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,570881,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,470,Malta,MLT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,1,,,,2626,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,173445,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,540,New Caledonia,NCL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2662,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,591,Panama,PAN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,65,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,598,Papua New Guinea,PNG,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,674,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,608,Philippines,PHL,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,291652,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,612,Pitcairn,PCN,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,28,,,,1806,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,616,Poland,POL,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,22,,,,3370,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,634,Qatar,QAT,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,593,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,642,Romania,ROU,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,9136,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,688,Serbia,SRB,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3509,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,699,India,IND,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,1525347,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,702,Singapore,SGP,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,504659,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,704,Viet Nam,VNM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,8533,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,705,Slovenia,SVN,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,21989,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,710,South Africa,ZAF,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,60971,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,724,Spain,ESP,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,2243,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,752,Sweden,SWE,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,3,,,,95,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,764,Thailand,THA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,219855,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,776,Tonga,TON,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,2271,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,784,United Arab Emirates,ARE,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,3194,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,826,United Kingdom,GBR,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,4972,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,842,USA,USA,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,751377,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,876,Wallis and Futuna Isds,WLF,,,,,,,,8542,Electronic integrated circuits,5,Number of items,,,2,,,,576,,,0
+H5,2017,2017,2017,4,0,2,Export,554,New Zealand,NZL,882,Samoa,WSM,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,0,,,,37578,,,0
