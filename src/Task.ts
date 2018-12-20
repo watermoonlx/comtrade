@@ -38,20 +38,24 @@ export class Task {
 
         console.log(`任务开始: ${JSON.stringify(this)}.`);
 
-        this._status = 'running';
+        try {
+            this._status = 'running';
 
-        const data = await this.getDataAsync(proxyIP);
-        this.saveData(data);
-
-        this._status = 'completed';
-
-        console.log(`任务结束: ${JSON.stringify(this)}.`);
+            const data = await this.getDataAsync(proxyIP);
+            this.saveData(data);
+            this._status = 'completed';
+            console.log(`任务结束: ${JSON.stringify(this)}.`);
+        }
+        catch (err) {
+            console.error(`任务出错。错误信息: ${JSON.stringify(err)}.`);
+            console.log(err);
+            this._status = 'sleeping';
+        }
     }
 
     private async getDataAsync(proxyIP: string) {
         const res = await (request
-            .get(this.requestUrl) as any)
-            .proxy(proxyIP);
+            .get(this.requestUrl) as any);
         return res.text;
     }
 

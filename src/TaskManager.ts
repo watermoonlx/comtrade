@@ -1,6 +1,7 @@
 import { appConfig } from '../app.config';
 import { getReporters } from './tradeArea';
 import { Task } from './Task';
+import { initDownloadDir } from './dirUtils';
 
 export class TaskManager {
 
@@ -23,6 +24,10 @@ export class TaskManager {
     }
 
     constructor() {
+    }
+
+    init() {
+        initDownloadDir();
         this.initTasks();
     }
 
@@ -37,6 +42,7 @@ export class TaskManager {
             }
             await this.delayAsync(1);
         }
+        console.log('任务全部完成！');
     }
 
     private initTasks() {
