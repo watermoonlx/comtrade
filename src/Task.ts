@@ -3,7 +3,7 @@ import { appConfig } from '../app.config';
 import * as request from 'superagent';
 import { buildCsvPath } from './dirUtils';
 import * as fs from 'fs';
-import { ProxyPool } from './proxyPool';
+import { ProxyPool, Proxy } from './proxyPool';
 const extendProxy = require('superagent-proxy');
 
 extendProxy(request);
@@ -38,29 +38,40 @@ export class Task {
         if (this.status != 'sleeping')
             return;
 
+        if (fs.existsSync(this.filePath)) {
+            this._status = 'completed';
+            return;
+        }
+
         console.log('=======================================================================');
         console.log(`任务开始: ${this.year}, ${this.area.text}, ${this.flow} ...`);
-
+        let proxy: Proxy;
         try {
             this._status = 'running';
-
             console.log('开始获取数据...');
-            const data = await this.getDataAsync();
+
+            proxy = this.proxyPool.getRandomProxy();
+            if (proxy)
+                console.log(`代理：${proxy.address}.`)
+            const data = await this.getDataAsync(proxy);
+
             console.log('获取数据成功。开始保存...');
             this.saveData(data);
             this._status = 'completed';
             console.log(`任务成功结束: ${this.year}, ${this.area.text}, ${this.flow}.`);
+            proxy.succeed();
             console.log('=======================================================================');
         }
         catch (err) {
             console.error(`任务出错。错误信息: ${JSON.stringify(err)}.`);
             console.log(err);
             console.log('=======================================================================');
+            proxy!.fail();
             this._status = 'sleeping';
         }
     }
 
-    private async getDataAsync() {
+    private async getDataAsync(proxy: Proxy) {
         const headers = {
             "Host": "comtrade.un.org",
             "Connection": "keep-alive",
@@ -72,21 +83,20 @@ export class Task {
         };
 
         let res: any;
-        const proxyIP = this.proxyPool.getRandomProxy();
-        console.log(`代理：${proxyIP.address}.`)
-
-        try {
+        if (proxy) {
             res = await (request
                 .get(this.requestUrl)
+                .timeout(60000)
                 .set(headers) as any
             )
-                .proxy(proxyIP.address);
+                .proxy(proxy.address);
+        } else {
+            res = await request
+                .get(this.requestUrl)
+                .timeout(60000)
+                .set(headers);
         }
-        catch (err) {
-            proxyIP.fail();
-            throw err;
-        }
-        proxyIP.succeed();
+
         return res.text;
     }
 

@@ -5,12 +5,17 @@ import * as _ from 'lodash';
 
 export class ProxyPool {
 
-    private pool: ProxyIP[] = [];
+    private pool: Proxy[] = [];
 
     private _page = 1;
+    private _lastUpdateTime = new Date();
 
     get poolSize() {
         return this.pool.length;
+    }
+
+    get lastUpdateTime() {
+        return this._lastUpdateTime;
     }
 
     async initAsync() {
@@ -23,11 +28,11 @@ export class ProxyPool {
         setInterval(async () => {
             this._page = 1;
             await this.setIpListAsync();
-        }, 3000000);
+        }, 300000);
 
         setInterval(() => {
             this.cleanPool();
-        }, 60000);
+        }, 10000);
     }
 
     getRandomProxy() {
@@ -36,7 +41,7 @@ export class ProxyPool {
     }
 
     private async setIpListAsync() {
-        const newProxyList: ProxyIP[] = [];
+        const newProxyList: Proxy[] = [];
         const headers = {
             "Host": "www.xicidaili.com",
             "Connection": "keep-alive",
@@ -63,11 +68,12 @@ export class ProxyPool {
                 && protocol === 'http'
                 && (speed === 'fast' || speed === 'medium')
             ) {
-                newProxyList.push(new ProxyIP(protocol, ip, port));
+                newProxyList.push(new Proxy(protocol, ip, port));
             }
 
         });
         this.pool = _.unionBy(this.pool, newProxyList, p => p.address);
+        this._lastUpdateTime = new Date();
     }
 
     private cleanPool() {
@@ -78,7 +84,7 @@ export class ProxyPool {
     }
 }
 
-class ProxyIP {
+export class Proxy {
 
     private _failedTimes = 0;
 
@@ -87,7 +93,7 @@ class ProxyIP {
     }
 
     get isAlive() {
-        return this._failedTimes < 5;
+        return this._failedTimes < 1;
     }
 
     constructor(

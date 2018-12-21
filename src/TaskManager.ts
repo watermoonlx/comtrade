@@ -41,12 +41,13 @@ export class TaskManager {
         while (this.sleepingTaskCount > 0) {
             if (this.runningTaskCount <= appConfig.parallelTaskCount) {
                 console.log(`进度: ${this.completedTaskCount / this.totalTaskCount * 100}%.`);
-                console.log(`已完成任务: ${this.completedTaskCount}, 未完成任务：${this.sleepingTaskCount}, 正在执行中的任务: ${this.runningTaskCount}. `);
-                console.log(`当前可用代理IP数：${this.proxyPool.poolSize}. `);
+                console.log(`已完成任务: ${this.completedTaskCount}，未完成任务：${this.sleepingTaskCount}。正在执行中的任务: ${this.runningTaskCount}。 `);
+                console.log(`当前可用代理IP数：${this.proxyPool.poolSize}，上次更新时间: ${this.proxyPool.lastUpdateTime}。 `);
                 const task = this.nextTask();
                 task!.runAsync();
+            } else {
+                await this.delayAsync(2);
             }
-            await this.delayAsync(1);
         }
         console.log('任务全部完成！');
     }
